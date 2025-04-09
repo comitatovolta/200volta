@@ -1,0 +1,71 @@
+---
+import { getCollection } from "astro:content";
+import "../styles/style.scss";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import bsi from "bootstrap-italia/dist/js/bootstrap-italia.bundle.min.js?url";
+
+const config = await getCollection("config");
+const header = config.find((item) => item.id === "header");
+const footer = config.find((item) => item.id === "footer");
+const seo = config.find((item) => item.id === "seo");
+const socials = config.find((item) => item.id === "socials");
+const logo = config.find((item) => item.id === "logo");
+---
+
+<!doctype html>
+<html lang='en'>
+  <head>
+    <meta charset='UTF-8' />
+    <meta name='viewport' content='width=device-width' />
+    <link rel='icon' type='image/svg+xml' href='/favicon.svg' />
+    <meta name='generator' content={Astro.generator} />
+    <link rel='preconnect' href='https://fonts.googleapis.com' />
+    <link rel='preconnect' href='https://fonts.gstatic.com' crossorigin />
+    <link
+      href='https://fonts.googleapis.com/css2?family=Titillium+Web:wght@300;400;600;700&display=swap'
+      rel='stylesheet'
+    />
+    <link
+      href='https://fonts.googleapis.com/css2?family=Titillium+Web:wght@400&display=swap'
+      rel='stylesheet'
+    />
+    <meta name='title' content={seo?.data.title || "Template Museo Civico"} />
+    <meta name='description' content={seo?.data.description} />
+    <meta name='keywords' content={seo?.data.keywords.join(",")} />
+    <og:image
+      content={seo?.data.image}
+      property='og:image'>
+    </og:image>
+    <title>
+      {Astro.props.title || seo?.data.title || "Template Museo Civico"}
+    </title>
+  </head>
+  <body>
+    <Header
+      data={header?.data[0]}
+      socials={socials?.data}
+      seo={seo?.data}
+      logo={logo?.data}
+    />
+    <main>
+      <slot />
+    </main>
+    <Footer
+      data={footer?.data}
+      socials={socials?.data}
+      seo={seo?.data}
+      logo={logo?.data}
+    />
+  </body>
+  <style>
+    html,
+    body {
+      margin: 0;
+      width: 100%;
+      height: 100%;
+    }
+  </style>
+  <script src={bsi}></script>
+</html>
+

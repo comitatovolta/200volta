@@ -1,0 +1,99 @@
+{
+  "siteName": "Bicentenario Volta",
+  "seo": {
+    "title": "Alessandro Volta",
+    "subtitle": "Duecento anni dalla morte",
+    "description": "",
+    "keywords": ["volta", "pila", "bicentenario"],
+    "image": "/assets/logo_comitato_200volta.jpg"
+  },
+  "socials": [
+    {
+      "title": "youtube",
+      "url": "https://youtube.com"
+    },
+    {
+      "title": "instagram",
+      "url": "https://instagram.com"
+    },
+    {
+      "title": "github",
+      "url": "https://github.com"
+    }
+  ],
+  "header": [
+    {
+      "socials": false,
+      "nav": [
+        {
+          "title": "Home",
+          "link": "/"
+        },
+        {
+          "title": "Eventi",
+          "link": "/events"
+        },
+        {
+          "title": "Alessandro Volta",
+          "link": "/volta"
+        },
+        {
+          "title": "Il comitato",
+          "link": "/comitato"
+        }
+      ]
+    }
+  ],
+  "footer": [
+    {
+      "rows": [
+        {
+          "id": 1,
+          "sections": []
+        },
+        {
+          "id": 2,
+          "sections": [
+            {
+              "socials": false,
+              "title": "Contatti",
+              "texts": [
+                "Comitato Nazionale per il 150° anniversario dalla nascita di Guglielmo Marconi Via Tuscolana 1055 – 00173 Roma  info@marconi150.itPiazza Lorem ipsum dolor",
+                "23 099872 - Città - Italia",
+                "(AA)-CF 99847593875934",
+                "Tel: 0983475983475",
+                "P.IVA: 0983475983475"
+              ]
+            },
+
+            {
+              "socials": true,
+              "title": "Seguici su ",
+              "links": []
+            },
+            {
+              "socials": false,
+              "title": "Comitato",
+              "links": [
+                {
+                  "title": "Finalità",
+                  "url": "/comitato#finalita"
+                },
+                {
+                  "title": "Membri",
+                  "url": "/comitato#membri"
+                },
+                {
+                  "title": "Attività",
+                  "url": "/comitato#attivita"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "domain": "https://bicentenario-volta.netlify.app",
+  "logo": "/assets/logo_comitato_200volta_neg.png"
+}

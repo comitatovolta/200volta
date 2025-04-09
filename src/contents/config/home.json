@@ -1,0 +1,63 @@
+{
+  "hero": {
+    "image": "/assets/immagine-x-sito_2.png",
+    "title": "",
+    "text": "",
+    "overlayShow": false,
+    "overlayColor": "",
+    "overlayAlpha": 5
+  },
+  "newsletter": {
+    "title": "",
+    "text": "",
+    "show": false,
+    "url": "http://"
+  },
+  "cta": {
+    "title": "Vuoi  suggerire progetti o eventi? ",
+    "text": "Scrivi",
+    "show": true,
+    "link": {
+      "label": "Contribuisci",
+      "external": true,
+      "url": "mailto:info@voltabicentenario.it?subject=contribute&body=\"Vorrei contribuire con...\""
+    }
+  },
+  "sections": [
+    {
+      "type": "events",
+      "title": "Iniziative"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "featuredSection",
+      "inverted": false,
+      "link": {
+        "external": true,
+        "label": "Scopri di più",
+        "url": "/volta"
+      },
+      "title": "Alessandro Volta",
+      "text": "Il 25 aprile del 1874 nasceva a Bologna Guglielmo Marconi, padre del wireless e della radio, premio Nobel per la fisica nel 1909. Da autodidatta, nella primavera del 1895 a Villa Griffone, residenza di campagna della famiglia, riesce ad emettere un segnale che percorre due chilometri, scavalca una collina, e raggiunge un ricevitore: è la prima trasmissione di telegrafia senza fili.",
+      "image": "/assets/volta_with_colors.png"
+    },
+    {
+      "type": "imageBlock",
+      "image": "/assets/lorezz79_httpss.mj.runcsnfsibr8de_alexander_volta_meets_napol_cc6d2a52-93ee-43da-a0b0-27b8f0b5e370_0.png",
+      "alt": "Volta incontra Napoleone e gli mostra la sua invenzione, la pila elettrica"
+    },
+    {
+      "type": "featuredSection",
+      "inverted": false,
+      "link": {
+        "external": true,
+        "url": "/comitato",
+        "label": "Scopri di più"
+      },
+      "title": "Il Comitato",
+      "text": "Il Comitato Nazionale per il 150° anniversario dalla nascita di Guglielmo Marconi, istituito con Decreto 397 del Ministero della Cultura il 13 dicembre 2023, promuove per il triennio 2024-2026 lo svolgimento di manifestazioni in Italia e all’estero per valorizzare la figura di Guglielmo Marconi a target plurali: Istituzioni, largo pubblico italiano e straniero, scienziati e sistema accademico internazionale, sistema scuola, appassionati, sistema dei media.",
+      "image": "/assets/comitato.png"
+    }
+  ]
+}

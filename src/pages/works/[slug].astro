@@ -1,0 +1,35 @@
+---
+import { getCollection } from "astro:content";
+import Layout from "../../layouts/Layout.astro";
+import HeroDetail from "../../components/HeroDetail.astro"
+import BreadCrumbs from "../../components/BreadCrumbs.astro";
+
+export async function getStaticPaths() {
+  const items = await getCollection("works");
+  return items.map((item) => {
+    let slug = item.id;
+    return {
+      params: {
+        slug,
+      },
+      props: { item },
+    };
+  });
+}
+
+const { slug } = Astro.params;
+const { item } = Astro.props;
+console.log("item", item);
+---
+<Layout>
+  <div class='container my-2'>
+    <BreadCrumbs path={["works",slug]}/>
+  </div>
+  <HeroDetail item={item} />
+    <div class="container contents">
+      <div class='mb-4'><span >Author:</span><span class="mx-2"><strong>{item.data.author}</strong></span></div>
+      <p set:html={item.rendered?.html} />
+    </div>
+    <!-- <pre>{JSON.stringify(item,null,2)}</pre> -->
+  </div>
+</Layout>

@@ -1,0 +1,70 @@
+---
+import { getCollection } from "astro:content";
+import Layout from "../layouts/Layout.astro";
+import PageBlocks from "../components/PageBlocks.astro";
+import BreadCrumbs from "../components/BreadCrumbs.astro";
+import HeroDetail from "../components/HeroDetail.astro";
+import Timeline from "../components/Timeline.astro";
+import TeamBlock from "../components/TeamBlock.astro";
+
+export async function getStaticPaths() {
+  const pages = await getCollection("pages");
+  console.log(pages.map((i) => i.data.title));
+  return pages
+    .filter((i) => i.data.title !== "home")
+    .map((page) => {
+      let slug = page.id;
+      return {
+        params: {
+          slug,
+        },
+        props: { page },
+      };
+    });
+}
+
+const { slug } = Astro.params;
+const { page } = Astro.props;
+
+const blocks = page.data.blocks;
+const links = blocks?.filter((b: any) => b.linked);
+
+const timeline = page.data.timeline;
+const teamBlock = page.data.teamBlock;
+
+const heroBlock = page.data.hero;
+let hero = undefined;
+if (heroBlock && heroBlock.image) {
+  hero = {
+    item: {
+      data: {
+        title: heroBlock.title,
+        description: heroBlock.text,
+        image: {
+          url: heroBlock.image,
+          alt: heroBlock.title,
+        },
+      },
+    },
+  };
+}
+---
+<Layout>
+  <div class='container my-5'>
+    <BreadCrumbs path={[slug]} />
+  </div>
+  {hero && <HeroDetail {...hero} />}
+  <div class='container my-5'>
+    {!hero && <h1>{page.data.title}</h1>}
+    {blocks && links && <PageBlocks blocks={blocks} links={links} />}
+    {timeline && <Timeline timeline={timeline} />}
+    {teamBlock && <TeamBlock {...teamBlock} />}
+    {
+      page.rendered?.html && (
+        <div class='container my-5'>
+          <div set:html={page.rendered?.html} />
+        </div>
+      )
+    }
+  </div>
+</Layout>
