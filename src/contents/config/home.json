@@ -1,6 +1,6 @@
 {
   "hero": {
-    "image": "/assets/immagine-x-sito_2.png",
+    "image": "/assets/bg-votla.jpg",
     "title": "",
     "text": "",
     "overlayShow": false,
@@ -15,12 +15,12 @@
   },
   "cta": {
     "title": "Vuoi  suggerire progetti o eventi? ",
-    "text": "Scrivi",
+    "text": "Siamo pronti ad accogliere ogni iniziativa proattiva ",
     "show": true,
     "link": {
-      "label": "Contribuisci",
+      "label": "PARLACI DELLA TUA IDEA",
       "external": true,
-      "url": "mailto:info@voltabicentenario.it?subject=contribute&body=\"Vorrei contribuire con...\""
+      "url": "mailto:segreteria.comitatovolta2027@governo.it?subject=Prposte-Suggerimenti&body=Scrivi qui la tua idea..."
     }
   },
   "sections": [
@@ -39,7 +39,7 @@
         "url": "/volta"
       },
       "title": "Alessandro Volta",
-      "text": "Il 25 aprile del 1874 nasceva a Bologna Guglielmo Marconi, padre del wireless e della radio, premio Nobel per la fisica nel 1909. Da autodidatta, nella primavera del 1895 a Villa Griffone, residenza di campagna della famiglia, riesce ad emettere un segnale che percorre due chilometri, scavalca una collina, e raggiunge un ricevitore: è la prima trasmissione di telegrafia senza fili.",
+      "text": "Il 18 febbraio 1745 nasceva a Como Alessandro Volta, uno dei padri dell’eletttricità, celebre per l’invenzione della pila, la prima fonte di energia elettrica continua. Professore di fisica sperimentale, nel 1800 realizza il suo straordinario dispositivo, capace di generare corrente elettrica tramite la sovrapposizione di dischi di metalli diversi separati da panni imbevuti in soluzione salina: è la nascita dell’elettrochimica e l’inizio dell’era dell’energia elettrica.",
       "image": "/assets/volta_with_colors.png"
     },
     {
@@ -56,8 +56,8 @@
         "label": "Scopri di più"
       },
       "title": "Il Comitato",
-      "text": "Il Comitato Nazionale per il 150° anniversario dalla nascita di Guglielmo Marconi, istituito con Decreto 397 del Ministero della Cultura il 13 dicembre 2023, promuove per il triennio 2024-2026 lo svolgimento di manifestazioni in Italia e all’estero per valorizzare la figura di Guglielmo Marconi a target plurali: Istituzioni, largo pubblico italiano e straniero, scienziati e sistema accademico internazionale, sistema scuola, appassionati, sistema dei media.",
-      "image": "/assets/comitato.png"
+      "text": "Il Comitato Nazionale per la celebrazione bicentenario dalla morte di Alessandro Volta, istituito con Decreto 397 del Ministero della Cultura il 13 dicembre 2024, promuove per il triennio 2024-2026 lo svolgimento di manifestazioni in Italia e all’estero per valorizzare la figura di Alessandro Volta a target plurali: Istituzioni, largo pubblico italiano e straniero, scienziati e sistema accademico internazionale, sistema scuola, appassionati, sistema dei media.",
+      "image": "/assets/comitato.jpg"
     }
   ]
 }

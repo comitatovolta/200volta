@@ -1,7 +1,7 @@
 ---
 import { getCollection } from "astro:content";
 import Layout from "../../layouts/Layout.astro";
-import HeroDetail from "../../components/HeroDetail.astro"
+import HeroDetail from "../../components/HeroDetail.astro";
 import BreadCrumbs from "../../components/BreadCrumbs.astro";
 
 export async function getStaticPaths() {
@@ -19,29 +19,55 @@ export async function getStaticPaths() {
 
 const { slug } = Astro.params;
 const { item } = Astro.props;
+
+const { image, title, description, from, to } = item.data;
+
+const fromDate = from
+  ? new Date(from).toLocaleDateString("it-IT", {
+      year: "numeric",
+      month: "long",
+      day: "numeric",
+    })
+  : null;
+
+const toDate = to
+  ? new Date(to).toLocaleDateString("it-IT", {
+      year: "numeric",
+      month: "long",
+      day: "numeric",
+    })
+  : null;
 ---
+
 <Layout>
   <div class='container my-2'>
-    <BreadCrumbs path={["events",slug]}/>
+    <BreadCrumbs path={["events", slug]} />
   </div>
   <HeroDetail item={item} />
-  <div class="container contents">
+  <div class='container contents'>
     <div class='mb-4'>
+      {
+        item.data.location && (
+          <div>
+            Location:
+            <b>{item.data.location}</b>
+          </div>
+        )
+      }
+      {
+        item.data.url && (
+          <div>
+            Link:
+            <b>{item.data.url}</b>
+          </div>
+        )
+      }
       <div>
-        Location:
-        <b>{item.data.location}</b>
-      </div>
-      <div>
-        Link:
-        <b>{item.data.url}</b>
-      </div>
-      <div>
-        <small>from: {item.data.from}</small>
-        <small>to: {item.data.to}</small>
+        {fromDate && <small> {fromDate}</small>}
+        {toDate && <small> - {toDate}</small>}
       </div>
     </div>
     <p set:html={item.rendered?.html} />
   </div>
   <!-- <pre>{JSON.stringify(item,null,2)}</pre> -->
 </Layout>
-

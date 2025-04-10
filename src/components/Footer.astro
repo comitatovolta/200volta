@@ -1,30 +1,7 @@
 ---
 const props = Astro.props;
-const { socials, seo,logo } = props;
+const { socials, seo, logo } = props;
 const rows = props.data[0].rows;
-const subFooter = [
-  {
-    title: "Media policy",
-    url: "/policy#media-policy",
-    isExternal: false,
-  },
-  {
-    title: "Privacy policy",
-    url: "/policy#privacy-policy",
-    isExternal: false,
-  },
-  {
-    title: "Note legali",
-    url: "/policy#legal-notes",
-    isExternal: false,
-  },
-
-  {
-    title: "Dichiarazione di accessibilità ",
-    url: "https://form.agid.gov.it/view/xyz",
-    isExternal: true,
-  },
-];
 ---
 
 <footer class='it-footer'>
@@ -37,17 +14,21 @@ const subFooter = [
               <a href='/' data-focus-mouse='false'>
                 {
                   logo ? (
-                    <img src={logo} height={180} class="mx-2" alt={"logo"}/>
+                    <img src={logo} height={180} class='mx-2' alt={"logo"} />
                   ) : (
                     <svg class='icon' aria-hidden='true'>
                       <use href='/icons/sprites.svg#it-pa' />
                     </svg>
                   )
                 }
-              { !logo && <div class='it-brand-text'>
-                  <h2>{seo.title}</h2>
-                  <h3 class='d-none d-md-block'>{seo.subtitle}</h3>
-                </div>}
+                {
+                  !logo && (
+                    <div class='it-brand-text'>
+                      <h2>{seo.title}</h2>
+                      <h3 class='d-none d-md-block'>{seo.subtitle}</h3>
+                    </div>
+                  )
+                }
               </a>
             </div>
           </div>
@@ -117,29 +98,6 @@ const subFooter = [
           );
         })
       }
-    </div>
-  </div>
-  <div class='it-footer-small-prints clearfix'>
-    <div class='container'>
-      <!-- <h3 class="visually-hidden">Sezione Link Utili</h3> -->
-      <ul
-        class='it-footer-small-prints-list list-inline mb-0 d-flex flex-column flex-md-row'
-      >
-        {
-          subFooter.map(({ url, title, isExternal }) => {
-            return (
-              <li class='list-inline-item'>
-                <a href={url}>
-                  {title}
-                  {isExternal && (
-                    <span class='visually-hidden'>(link esterno)</span>
-                  )}
-                </a>
-              </li>
-            );
-          })
-        }
-      </ul>
     </div>
   </div>
 </footer>

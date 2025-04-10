@@ -1,6 +1,6 @@
 ---
 const props = Astro.props;
-const { pic, name, role } = props;
+const { pic, name, role, info } = props;
 ---
 
 <style lang='scss'>
@@ -25,5 +25,7 @@ const { pic, name, role } = props;
   <div class='extra-text'>
     <h4>{name}</h4>
     <small>{role}</small>
+    <hr />
+    <small>{info}</small>
   </div>
 </div>

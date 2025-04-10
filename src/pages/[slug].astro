@@ -30,7 +30,7 @@ const blocks = page.data.blocks;
 const links = blocks?.filter((b: any) => b.linked);
 
 const timeline = page.data.timeline;
-const teamBlock = page.data.teamBlock;
+const people = page.data.people;
 
 const heroBlock = page.data.hero;
 let hero = undefined;
@@ -49,6 +49,7 @@ if (heroBlock && heroBlock.image) {
   };
 }
 ---
+
 <Layout>
   <div class='container my-5'>
     <BreadCrumbs path={[slug]} />
@@ -56,9 +57,9 @@ if (heroBlock && heroBlock.image) {
   {hero && <HeroDetail {...hero} />}
   <div class='container my-5'>
     {!hero && <h1>{page.data.title}</h1>}
-    {blocks && links && <PageBlocks blocks={blocks} links={links} />}
+    {blocks?.length>0 && <PageBlocks blocks={blocks} links={links} />}
     {timeline && <Timeline timeline={timeline} />}
-    {teamBlock && <TeamBlock {...teamBlock} />}
+    {people && people.map((obj: any) => <TeamBlock {...obj.teamBlock} />)}
     {
       page.rendered?.html && (
         <div class='container my-5'>

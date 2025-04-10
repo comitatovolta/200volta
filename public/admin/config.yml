@@ -98,7 +98,8 @@ collections:
       preview: false
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Description", name: "description", widget: "string" }
+      - { label: "Description", name: "description", widget: "string", required: false  }
+      - { label: "Publish Date", name: "pubDate", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown", required: false }
       - label: "Hero"
         name: "hero"
@@ -156,25 +157,30 @@ collections:
                     - { label: "Alt", name: "alt", widget: string, default: "thumb", required: false }
               - { label: "Title", name: "title", widget: "string", required: true }
               - { label: "Text", name: "body", widget: "markdown", required: true }
-      - label: "Team Block"
-        name: "teamBlock"
-        widget: "object"
+      - label: "People Group"
+        name: "people"
+        widget: "list"
         required: false
         fields:
-          - { label: "Title", name: "title", widget: "string", required: false  }
-          - { label: "Text", name: "body", widget: "markdown", required: false }
-          - label: "People"
-            name: "team"
-            widget: "list"
+          - label: "Team Block"
+            name: "teamBlock"
+            widget: "object"
+            required: false
             fields:
-              - label: "Person"
-                name: "person"
-                widget: "object"
+              - { label: "Title", name: "title", widget: "string", required: false  }
+              - { label: "Text", name: "body", widget: "markdown", required: false }
+              - label: "People"
+                name: "team"
+                widget: "list"
                 fields:
-                  - {label: "Full Name", name: "name", widget: "string", required: true }
-                  - {label: "Pic", name: "pic", widget: "image", required: true}
-                  - {label: "Role", name: "role", widget: "string", required: true}
-      - { label: "Publish Date", name: "datetime", widget: "datetime" }
+                  - label: "Person"
+                    name: "person"
+                    widget: "object"
+                    fields:
+                      - {label: "Full Name", name: "name", widget: "string", required: true }
+                      - {label: "Pic", name: "pic", widget: "image", required: true}
+                      - {label: "Role", name: "role", widget: "string", required: false}
+                      - {label: "Info", name: "info", widget: "string", required: false}
   - name: "news"
     label: "News" # Used in the UI
     folder: "src/contents/news" # The path to the folder where the documents are stored

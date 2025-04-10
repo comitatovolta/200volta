@@ -11,7 +11,7 @@ const { title, body, team } = props;
   <div class='row'>
     {
       team?.map((p: any) => (
-        <div class='col-12 col-md-6 col-lg-4'>
+        <div class='col-12 col-lg-6'>
           <Person {...p.person} />
         </div>
       ))

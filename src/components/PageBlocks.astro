@@ -43,64 +43,62 @@ const { blocks, links } = Astro.props;
 </style>
 
 <div>
-  <div class='container my-5'>
-    <div class='wrap contents'>
+  <div class='wrap contents'>
+    {
+      links.length > 0 && (
+        <div class='menu-wrap'>
+          <h6>Indice pagina</h6>
+          <ul class='link-list'>
+            {links?.map((b: any) => (
+              <li class='nav-item'>
+                <a
+                  class='nav-link'
+                  href={`#${b.link || b.title.split(" ").join("_")}`}
+                >
+                  <span>{b.title}</span>
+                </a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      )
+    }
+    <div class='content-wrap'>
       {
-        links.length > 0 && (
-          <div class='menu-wrap'>
-            <h6>Indice pagina</h6>
-            <ul class='link-list'>
-              {links?.map((b: any) => (
-                <li class='nav-item'>
-                  <a
-                    class='nav-link'
-                    href={`#${b.link || b.title.split(" ").join("_")}`}
-                  >
-                    <span>{b.title}</span>
-                  </a>
-                </li>
-              ))}
-            </ul>
-          </div>
-        )
+        blocks.map((b: any) => {
+          switch (b.type) {
+            case "section":
+              return (
+                <div class='content-block my-md-5 px-md-5'>
+                  {b.linked && (
+                    <a id={`${b.link || b.title.split(" ").join("_")}`} />
+                  )}
+                  {b.title && <h3 class='underline'>{b.title}</h3>}
+                  <div set:html={marked.parse(b.body)} />
+                </div>
+              );
+            case "featured":
+              const { title, text, link, inverted, image } = b;
+              return (
+                <FeaturedBlock
+                  title={title}
+                  text={text}
+                  link={link}
+                  inverted={inverted}
+                  image={image}
+                />
+              );
+            case "imageBlock":
+              return (
+                <div class='content-block my-5 px-5'>
+                  <img src={b.image} alt={b.alt} />
+                </div>
+              );
+            default:
+              return <div>{b.type}</div>;
+          }
+        })
       }
-      <div class='content-wrap'>
-        {
-          blocks.map((b: any) => {
-            switch (b.type) {
-              case "section":
-                return (
-                  <div class='content-block my-md-5 px-md-5'>
-                    {b.linked && (
-                      <a id={`${b.link || b.title.split(" ").join("_")}`} />
-                    )}
-                    {b.title && <h3 class='underline'>{b.title}</h3>}
-                    <div set:html={marked.parse(b.body)} />
-                  </div>
-                );
-              case "featured":
-                const { title, text, link, inverted, image } = b;
-                return (
-                  <FeaturedBlock
-                    title={title}
-                    text={text}
-                    link={link}
-                    inverted={inverted}
-                    image={image}
-                  />
-                );
-              case "imageBlock":
-                return (
-                  <div class='content-block my-5 px-5'>
-                    <img src={b.image} alt={b.alt} />
-                  </div>
-                );
-              default:
-                return <div>{b.type}</div>;
-            }
-          })
-        }
-      </div>
     </div>
   </div>
 </div>

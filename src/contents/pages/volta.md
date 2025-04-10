@@ -1,6 +1,6 @@
 ---
 title: Alessandro Volta
-description: Scenziato del futuro
+description: ""
 hero:
   title: La Biografia dello scenziato
   text: ll Museo di Storia Naturale è il più antico museo civico milanese ed è
@@ -57,4 +57,5 @@ timeline:
     title: La costruzione dell'acquario
     periodTitle: "1910"
 datetime: 2025-04-08T19:21:00.000Z
+pubDate: 2025-04-10T16:27:00.000Z
 ---

@@ -1,45 +1,50 @@
 {
-  "siteName": "Bicentenario Volta",
+  "siteName": "200 Volta",
   "seo": {
-    "title": "Alessandro Volta",
-    "subtitle": "Duecento anni dalla morte",
-    "description": "",
-    "keywords": ["volta", "pila", "bicentenario"],
+    "title": "200 Volta",
+    "subtitle": " Comitato Nazionale per la Celebrazioni del bicentenario della morte di Alessandro Volta",
+    "description": " Comitato Nazionale per la Celebrazioni del bicentenario della morte di Alessandro Volta",
+    "keywords": [
+      "volta",
+      "pila",
+      "bicentenario",
+      "200"
+    ],
     "image": "/assets/logo_comitato_200volta.jpg"
   },
   "socials": [
     {
-      "title": "youtube",
-      "url": "https://youtube.com"
+      "title": "facebook",
+      "url": " https://www.facebook.com/200Volta"
     },
     {
       "title": "instagram",
-      "url": "https://instagram.com"
+      "url": "https://www.instagram.com/200volta_"
     },
     {
-      "title": "github",
-      "url": "https://github.com"
+      "title": "youtube",
+      "url": "https://www.youtube.com/@200Volta"
     }
   ],
   "header": [
     {
-      "socials": false,
+      "socials": true,
       "nav": [
         {
-          "title": "Home",
+          "title": "HOME",
           "link": "/"
         },
         {
-          "title": "Eventi",
-          "link": "/events"
-        },
-        {
-          "title": "Alessandro Volta",
+          "title": "A.VOLTA",
           "link": "/volta"
         },
         {
-          "title": "Il comitato",
+          "title": "IL COMITATO",
           "link": "/comitato"
+        },
+        {
+          "title": "EVENTI",
+          "link": "/events"
         }
       ]
     }
@@ -58,42 +63,21 @@
               "socials": false,
               "title": "Contatti",
               "texts": [
-                "Comitato Nazionale per il 150° anniversario dalla nascita di Guglielmo Marconi Via Tuscolana 1055 – 00173 Roma  info@marconi150.itPiazza Lorem ipsum dolor",
-                "23 099872 - Città - Italia",
-                "(AA)-CF 99847593875934",
-                "Tel: 0983475983475",
-                "P.IVA: 0983475983475"
+                "Sede Legale: Largo Pietro Brazzà",
+                "86 | 00187 ROMA",
+                "segreteria.comitatovolta2027@governo.it"
               ]
             },
-
             {
               "socials": true,
               "title": "Seguici su ",
               "links": []
-            },
-            {
-              "socials": false,
-              "title": "Comitato",
-              "links": [
-                {
-                  "title": "Finalità",
-                  "url": "/comitato#finalita"
-                },
-                {
-                  "title": "Membri",
-                  "url": "/comitato#membri"
-                },
-                {
-                  "title": "Attività",
-                  "url": "/comitato#attivita"
-                }
-              ]
             }
           ]
         }
       ]
     }
   ],
-  "domain": "https://bicentenario-volta.netlify.app",
+  "domain": "https://200volta.netlify.app",
   "logo": "/assets/logo_comitato_200volta_neg.png"
 }
