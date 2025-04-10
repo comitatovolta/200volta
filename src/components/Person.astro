@@ -2,19 +2,39 @@
 const props = Astro.props;
 const { pic, name, role, info } = props;
 ---
-<!--
+
 <style lang='scss'>
   @import "../styles/variables";
+
+  .avatar-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-items: start;
+    align-items: start;
+  }
 
   .exrta-text {
     color: #{$color-text-secondary};
     display: block;
   }
+  .avatar {
+    margin: 10px 20px;
+  }
 
-
-
-
-</style> -->
+  @media screen and (min-width: 640px) {
+    .avatar-wrapper {
+      flex-direction: row;
+      justify-content: center;
+      align-items: center;
+    }
+    .avatar {
+      margin: 10px;
+    }
+    .extra-text {
+      margin: 0 auto;
+    }
+  }
+</style>
 <div class='avatar-wrapper avatar-extra-text mx-2'>
   <div class='avatar size-xxl'>
     <img src={pic} alt='' aria-hidden='true' />
