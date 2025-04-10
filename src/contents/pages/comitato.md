@@ -96,3 +96,44 @@ people:
               Anniversari nazionali.
             pic: /assets/CASATI.jpg
 ---
+### OBBIETTIVI ED INIZIATIVE DELLE CELEBRAZIONI
+
+Definizione del complesso dei programmi, iniziative e interventi individuati per rappresentare i valori e il significato profondo della personalità di Alessandro Volta.
+
+Articolo 8 – DPCM Comitato Volta 30.1.2025
+
+* eventuali attività di restauro di cose mobili o immobili sottoposte a tutela ai sensi del codice dei beni culturali e del paesaggio di cui al decreto legislativo 22 gennaio 2004, n. 42;
+* attività editoriali, formative, espositive, congressuali e di organizzazione e gestione di manifestazioni in ambito culturale, storico e scientifico di elevato valore, in una prospettiva di internazionalizzazione e di innovazione tecnologica volta alla promozione dello sviluppo di ricerche;
+*  progetti e le sperimentazioni di interventi innovativi sotto il profilo tecnologico nei settori energetico, delle comunicazioni, dell’informazione e altre materie di riferimento dell’iniziativa che costituiscono i più significativi ambiti applicativi legati alle scoperte voltiane, al fine di divulgarle e comunicarle in Italia e all’estero, anche mediante piattaforme digitali;
+*  trasmissione dell’eredità scientifica di Alessandro Volta alle giovani generazioni ai fini del progresso;
+*  definizione delle strategie per promuovere, in particolar modo nei confronti dei giovani, i valori e il significato profondo della figura di Alessandro Volta, in ottica di maggiore consapevolezza e valorizzazione della storia nazionale.
+
+
+
+
+### RAZIONALE DEGLI OBIETTIVI DELLE CELEBRAZIONI
+
+Le articolate iniziative, organizzate nell’ambito del “Comitato nazionale per la celebrazione del bicentenario della morte di Alessandro Volta” (facendo riferimento all’art. 8, DPCM Comitato Volta 30.1.2025), intendono elevare la consapevolezza ed attualizzazione del lascito voltiano, sia per le nuove generazioni sia per lo sviluppo delle nuove frontiere tecnologiche. In particolare saranno organizzate iniziative, con orizzonte nazionale, per:
+
+* \- approfondire e divulgare scientificamente le opere e la vita di Alessandro Volta; 
+* \- approfondire e divulgare l’influenza dell’opera voltiana sul processo di sviluppo scientifico e tecnologico, come spunto ed ispirazione per nuovi sviluppi tecnologici; 
+* \- attualizzare l’identità voltiana a beneficio dei giovani, per costruire una coscienza nazionale giovanile, in particolare relativamente ai temi di umanizzazione della tecnologia; 
+* \- sensibilizzare ai temi di sostenibilità energetica relativa alle batterie ed al metano.
+
+
+I principi, gli indirizzi generali e gli obiettivi della programmazione del comitato nazionale desiderano quindi collegarsi a specifiche focalizzazioni. I giovani per generare una coscienza nazionale giovanile, di futuri italiani che, nell’orgoglio della storia dei propri concittadini, ritrovano anche stimoli per un dibattito culturale attuale, virtuoso e utile. 
+
+Giovani generazioni che costituiscano una cittadinanza scientifica, non solo tecnocratica ma anche capace di coniugare rigore e metodologico con l’attenzione delle persone. 
+
+La sostenibilità energetica, non ovviamente nella concezione retorica e pletorica odierna, ma concentrandoci su batterie e metano, e su ogni settore e filiera toccata dalle scoperte voltiane (….). 
+
+Per ultimo il tema della umanizzazione della tecnologia; tale tema, legato alla IA, riporta al Volta perché simbolo delle scienze umane, come poeta e umanista ma anche scienziato volitivo per lo sviluppo tecnologico; inoltre, sottolinea l’imprescindibile relazione tra lavoro umano e tecnologia. 
+
+Dunque, sostenibilità energetica (relativa alle batterie ed al metano) e umanizzazione della tecnologia, come parole chiave di cui il Volta è stato pioniere e che possono essere attualizzate con i giovani, per affrontare le sfide dell’oggi. 
+
+Interessante notare che il 2029 è un anno prima del termine della Agenda 2030, è possibile dunque inserirsi a pieno titolo per il sostegno del loro punto 17.
+La comunità scientifica internazionale per una visione unita e globale delle scienze a supporto dello sviluppo, con il mondo delle imprese come imprescindibile supporto.
+
+Per raggiungere tali obiettivi, saranno organizzati - anche con carattere emblematico - eventi, convegni scientifici, mostre, opere pubbliche, interventi di restato, film, documentari, libri, pubblicazioni editoriali, iniziative di valorizzazione, archivistica e raccolta delle fonti voltiane, progetti con partner commerciali, patrocini onerosi e non onerosi, borse di studio e progetti per studenti universitari o liceali. 
+
+Ovviamente il tutto avverrà con lo spirito del massimo coinvolgimento delle istituzioni e delle associazioni locali e nazionali che intendo collaborare.
