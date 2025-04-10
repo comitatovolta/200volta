@@ -2,27 +2,20 @@
 title: Alessandro Volta
 description: ""
 hero:
-  title: La Biografia dello scenziato
-  text: ll Museo di Storia Naturale è il più antico museo civico milanese ed è
-    oggi il centro delle attività del Giardino delle Scienze, che comprende due
-    grandi laboratori didattici - Paleolab e Biolab - e il Civico Planetario
-    Ulrico Hoepli. Fondato nel 1838 con la donazione delle collezioni
-    naturalistiche di Giuseppe De Cristoforis e Giorgio Jan, è la prima
-    architettura museale italiana, costruito tra il 1892 e il 1907 su progetto
-    dell’architetto Giovanni Ceruti e ispirato ai grandi musei naturalistici
-    europei della seconda metà dell’Ottocento.
-  image: /assets/volta_with_colors.png
+  title: Vita di Volta
+  text: "Leggere la vita di Volta ci consente di scoprire le caratteristiche
+    personali e le esperienze che gli hanno permesso di diventare lo scienziato
+    che con le sue scoperte ha influenzato larga parte della scienza moderna. "
+  image: /assets/screenshot-2025-04-10-at-16.49.07.png
 timeline:
   - type: item
     periodTitle: "1839"
     title: "Fondazione "
-    body: Lorem ipsum dolor sit amet consectetur. Suspendisse placerat ut sit
-      pharetra scelerisque. Viverra dignissim nibh ultricies elementum varius.
-      Eget sagittis malesuada nascetur sit est. Eget vitae eu mi faucibus sed
-      non gravida. Lorem ipsum dolor sit amet consectetur. Suspendisse placerat
-      ut sit pharetra scelerisque. Viverra dignissim nibh ultricies elementum
-      varius. Eget sagittis malesuada nascetur sit est. Eget vitae eu mi
-      faucibus sed non gravida.
+    body: >-
+      ### La Giovinezza
+
+
+      Alessandro Volta, figlio del patrizio comense Filippo e di donna Maddalena dei Conti Inzaghi nasce a Como il 18 febbraio del 1745. A Brunate, nella casa dell’artigiano Ludovico Monti costruttore di barometri, trascorre i primi anni di un’infanzia piuttosto preoccupante a causa di uno sviluppo linguistico così tardivo da far temere che dovesse rimanere muto; ma, sia pur lentamente, arriva alla scioltezza di parola all’età di sette anni.
   - type: item
     periodTitle: "1844"
     image:
@@ -57,5 +50,5 @@ timeline:
     title: La costruzione dell'acquario
     periodTitle: "1910"
 datetime: 2025-04-08T19:21:00.000Z
-pubDate: 2025-04-10T16:27:00.000Z
+pubDate: 2025-04-10T16:43:00.000Z
 ---
