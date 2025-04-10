@@ -1,6 +1,27 @@
 @import "variables";
 @import "bootstrap-italia/src/scss/bootstrap-italia";
 
+.logo{
+  height: 120px;
+  margin: 0 2px;
+}
+
+@media (min-width: 60em) {
+  .logo{
+    height: 180px;
+  }
+}
+
+html,
+body {
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  background-color: #fff;
+}
+
+
 .object-fit-cover {
   object-fit: cover;
 }
