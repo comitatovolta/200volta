@@ -14,7 +14,7 @@ const { timeline } = Astro.props;
   }
 
   .timeline-card-text {
-    color: $color-text-secondary;
+    color: #111;
   }
 
   .it-timeline-wrapper .it-pin-wrapper .pin-icon.timeline-pin-icon {
@@ -22,7 +22,7 @@ const { timeline } = Astro.props;
     width: 40px;
     height: 40px;
     margin-left: 4px;
-    background-color: $color-text-secondary;
+    background-color: #111;
     box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.16);
   }
 
@@ -57,7 +57,7 @@ const { timeline } = Astro.props;
       }
 
       .card-body .card-title.timeline-title {
-        color: $color-text-secondary;
+        color: #111;
         margin-bottom: 0;
       }
     }
@@ -117,9 +117,7 @@ const { timeline } = Astro.props;
                         <h4 class="card-title heading-5-lg text-capitalize timeline-title">
                           {item.title}
                         </h4>
-                        <p class="font-serif body-serif-lg pt-1 pt-md-3 mb-0 timeline-card-text">
-                          {item.body}
-                        </p>
+                        <p class="font-serif body-serif-lg pt-1 pt-md-3 mb-0 timeline-card-text" set:html={marked(item.body)}/>
                       </div>
                     </div>
                   </div>
