@@ -26,7 +26,7 @@ const fromTime = from
   : null;
 ---
 
-<style lang="scss">
+<style lang='scss'>
   @import "../styles/variables";
 
   .card-event {
@@ -44,31 +44,31 @@ const fromTime = from
     line-height: 1.75rem;
     letter-spacing: 0;
   }
-
 </style>
-<div class="card card-event no-after shadow rounded overflow-hidden">
-  <div class="row">
-    <div class="col-md-6">
+<div class='card card-event no-after shadow rounded overflow-hidden'>
+  <div class='row'>
+    <div class='col-md-6'>
       {
         image && (
-          <div class="img-responsive-wrapper ratio ratio-16x9 h-100">
+          <div class='img-responsive-wrapper ratio ratio-16x9 h-100'>
             <figure>
               <img
                 src={image.url}
                 alt={image.alt}
-                class="w-100 h-100 object-fit-cover"
+                class='w-100 h-100 object-fit-cover'
+                loading='lazy'
               />
             </figure>
           </div>
         )
       }
     </div>
-    <div class="col-md-6">
-      <div class="card-body">
+    <div class='col-md-6'>
+      <div class='card-body'>
         <a href={`/eventi/${slug}`}>
-          <h3 class="card-title mb-2">{title}</h3>
+          <h3 class='card-title mb-2'>{title}</h3>
         </a>
-        <h4 class="card-date fw-semibold">
+        <h4 class='card-date fw-semibold'>
           {
             fromDate &&
               (toDate
@@ -76,7 +76,7 @@ const fromTime = from
                 : `Il ${fromDate}, ore ${fromTime}`)
           }
         </h4>
-        <p class="card-description multiline-ellipsis-5 mt-3">
+        <p class='card-description multiline-ellipsis-5 mt-3'>
           {description}
         </p>
       </div>

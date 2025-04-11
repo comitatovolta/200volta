@@ -3,7 +3,7 @@ import { marked } from "marked";
 const { timeline } = Astro.props;
 ---
 
-<style lang="scss">
+<style lang='scss'>
   @import "../styles/variables";
 
   .timeline-pin-text::after {
@@ -73,51 +73,55 @@ const { timeline } = Astro.props;
   }
 </style>
 
-<div class="wrap contents timeline-wrapper">
-  <div class="container my-5">
-    <div class="it-timeline-wrapper">
-      <div class="row pt-0">
+<div class='wrap contents timeline-wrapper'>
+  <div class='container my-5'>
+    <div class='it-timeline-wrapper'>
+      <div class='row pt-0'>
         {
           timeline.map((item: any) => (
             <>
               <div />
-              <div class="col-12 timeline-item">
-                <div class="timeline-element pt-lg-0">
-                  <h3 class="it-pin-wrapper it-evidence my-0">
-                    <div class="pin-icon timeline-pin-icon">
-                      <svg class="icon" role="img">
+              <div class='col-12 timeline-item'>
+                <div class='timeline-element pt-lg-0'>
+                  <h3 class='it-pin-wrapper it-evidence my-0'>
+                    <div class='pin-icon timeline-pin-icon'>
+                      <svg class='icon' role='img'>
                         <>
                           <title>Segnaposto</title>
-                          <use href="https://italia.github.io/bootstrap-italia/dist/svg/sprites.svg#it-bookmark" />
+                          <use href='https://italia.github.io/bootstrap-italia/dist/svg/sprites.svg#it-bookmark' />
                         </>
                       </svg>
                     </div>
                     {item.periodTitle && (
-                      <div class="pin-text bg-primary timeline-pin-text py-1">
-                        <span class="timeline-pin-text">
+                      <div class='pin-text bg-primary timeline-pin-text py-1'>
+                        <span class='timeline-pin-text'>
                           {item.periodTitle}
                         </span>
                       </div>
                     )}
                   </h3>
-                  <div class="card-wrapper">
-                    <div class="card">
+                  <div class='card-wrapper'>
+                    <div class='card'>
                       {item.image?.url && (
-                        <div class="img-responsive-wrapper ratio ratio-16x9">
+                        <div class='img-responsive-wrapper ratio ratio-16x9'>
                           <figure>
                             <img
                               src={item.image.url}
                               alt={item.image.alt}
-                              class="w-100 h-100 object-fit-cover px-4 pt-4 py-lg-4 pt-lg-0"
+                              class='w-100 h-100 object-fit-cover px-4 pt-4 py-lg-4 pt-lg-0'
+                              loading='lazy'
                             />
                           </figure>
                         </div>
                       )}
-                      <div class="card-body pt-0 pt-md-5 pt-lg-3 timeline-card-body">
-                        <h4 class="card-title heading-5-lg text-capitalize timeline-title">
+                      <div class='card-body pt-0 pt-md-5 pt-lg-3 timeline-card-body'>
+                        <h4 class='card-title heading-5-lg text-capitalize timeline-title'>
                           {item.title}
                         </h4>
-                        <p class="font-serif body-serif-lg pt-1 pt-md-3 mb-0 timeline-card-text" set:html={marked(item.body)}/>
+                        <p
+                          class='font-serif body-serif-lg pt-1 pt-md-3 mb-0 timeline-card-text'
+                          set:html={marked(item.body)}
+                        />
                       </div>
                     </div>
                   </div>

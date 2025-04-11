@@ -12,7 +12,7 @@ const { blocks, links } = Astro.props;
 <style>
   .menu-wrap {
     display: block;
-    margin:2px;
+    margin: 2px;
   }
   .content-wrap {
     display: block;
@@ -91,7 +91,7 @@ const { blocks, links } = Astro.props;
             case "imageBlock":
               return (
                 <div class='content-block my-5 px-5'>
-                  <img src={b.image} alt={b.alt} />
+                  <img src={b.image} alt={b.alt} loading='lazy' />
                 </div>
               );
             default:

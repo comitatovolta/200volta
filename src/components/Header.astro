@@ -18,7 +18,12 @@ const SIZE = 4;
                 <a href='/'>
                   {
                     logo ? (
-                      <img src={logo} class='logo' alt={"logo"} />
+                      <img
+                        src={logo}
+                        class='logo'
+                        alt={"logo"}
+                        loading='lazy'
+                      />
                     ) : (
                       <svg class='icon' aria-hidden='true'>
                         <use href='/icons/sprites.svg#it-pa' />
@@ -118,7 +123,7 @@ const SIZE = 4;
                           childs?: [{ title: string; link: string }];
                         }) => {
                           if (item.childs) {
-                            if (item.childs.length < SIZE+1) {
+                            if (item.childs.length < SIZE + 1) {
                               return (
                                 <li class='nav-item dropdown'>
                                   <a

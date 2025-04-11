@@ -35,13 +35,14 @@ const newsletter = home.find((item: any) => item.id === "newsletter")?.data;
               return <FeaturedSection {...b} />;
             case "imageBlock":
               return (
-                <div class="row">
+                <div class='row'>
                   <div class='img-responsive-wrapper ratio ratio-16x9'>
                     <figure>
                       <img
                         src={b.image}
                         alt={b.alt}
                         class='w-100 h-100 object-fit-cover'
+                        loading='lazy'
                       />
                     </figure>
                   </div>

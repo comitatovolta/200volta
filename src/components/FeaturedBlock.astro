@@ -35,7 +35,12 @@ const { title, text, link, inverted, image } = Astro.props;
   <div class='container'>
     <div class='row'>
       <div class='img-responsive-wrapper ratio ratio-16x9 h-100'>
-        <img src={image} alt='' class='w-100 h-100 object-fit-cover' />
+        <img
+          src={image}
+          alt=''
+          class='w-100 h-100 object-fit-cover'
+          loading='lazy'
+        />
       </div>
       <div class='featured-overlay'>
         <a href={link || "#"} class='featured-link'>

@@ -45,6 +45,7 @@ const { title, text, link, inverted, image } = Astro.props;
             src={image.url || image}
             alt={image.alt || title}
             class='w-100 h-100 object-fit-cover'
+            loading='lazy'
           />
         </div>
       </div>
