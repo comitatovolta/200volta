@@ -75,7 +75,15 @@ blocks:
     linked: false
     title: Decreto
     link: decreto
-    body: Decreto Legge ...
+    body: >-
+      Decreti Legge: 
+
+
+      - [Decreto nomina comitato](https://200volta.netlify.app/assets/decreto_nomina_comitato-volta-signed.pdf)
+
+      - [Decreto nomina comitato](https://200volta.netlify.app/assets/decreto_nomina_comitato-volta-signed.pdf)
+
+      - [Decreto nomina comitato](https://200volta.netlify.app/assets/decreto_nomina_comitato-volta-signed.pdf)
 people:
   - teamBlock:
       title: PRESIDENTE
