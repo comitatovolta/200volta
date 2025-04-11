@@ -75,11 +75,15 @@ blocks:
       Decreti Legge: 
 
 
-      - [Decreto nomina comitato](https://200volta.netlify.app/assets/decreto_nomina_comitato-volta-signed.pdf)
+      - [Decreto nomina comitato](https://200volta.netlify.app/assets/decreto_nomina_comitato-volta-signed.pdf){:target="_blank"}
 
-      - [Decreto nomina comitato](https://200volta.netlify.app/assets/decreto_nomina_comitato-volta-signed.pdf)
+      - [Decreto nomina comitato](https://200volta.netlify.app/assets/decreto_nomina_comitato-volta-signed.pdf){:target="_blank"}
 
-      - [Decreto nomina comitato](https://200volta.netlify.app/assets/decreto_nomina_comitato-volta-signed.pdf)
+      - [Decreto nomina comitato](https://200volta.netlify.app/assets/decreto_nomina_comitato-volta-signed.pdf){:target="_blank"}
+
+      - [Decreto nomina comitato](https://200volta.netlify.app/assets/decreto_nomina_comitato-volta-signed.pdf){:target="_blank"}
+
+      - [Decreto nomina comitato](https://200volta.netlify.app/assets/decreto_nomina_comitato-volta-signed.pdf){:target="_blank"}
 people:
   - teamBlock:
       title: PRESIDENTE
