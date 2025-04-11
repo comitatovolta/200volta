@@ -40,7 +40,25 @@
         },
         {
           "title": "IL COMITATO",
-          "link": "/comitato"
+          "link": "/comitato",
+          "childs": [
+            {
+              "title": "Membri",
+              "link": "/comitato#membri"
+            },
+            {
+              "title": "Finalità",
+              "link": "/comitato#finalita"
+            },
+            {
+              "title": "Obiettivi",
+              "link": "/comitato#obiettivi"
+            },
+            {
+              "title": "Decreto",
+              "link": "/comitato#decreto"
+            }
+          ]
         },
         {
           "title": "EVENTI",
