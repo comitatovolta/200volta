@@ -10,7 +10,7 @@ description: "Il Convegno â€œAlessandro Volta: Building the Future with Scienceâ
   come motore del progresso. "
 from: 2025-04-14T00:00:00.000Z
 to: ""
-location: Vialla Erba | Cernobbio, Como
+location: Villa Erba | Cernobbio, Como
 url: ""
 tags:
   - events
