@@ -28,7 +28,7 @@ blocks:
 
       * definizione delle strategie per promuovere, in particolar modo nei confronti dei giovani, i valori e il significato profondo della figura di Alessandro Volta, in ottica di maggiore consapevolezza e valorizzazione della storia nazionale.
   - type: section
-    linked: false
+    linked: true
     title: Finalita
     link: finalita
     body: >-
