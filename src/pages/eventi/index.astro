@@ -7,21 +7,24 @@ import Hero from "../../components/Hero.astro";
 
 const items = await getCollection("events");
 ---
+
 <Layout>
   <div class='container my-2'>
-    <BreadCrumbs path={["events"]} />
-    <Hero title={"Eventi"}/>
+    <BreadCrumbs path={["eventi"]} />
+    <Hero title={"Eventi"} />
   </div>
   <div class='container contents'>
     <div class='mt-5'>
       <div class='row'>
-        {
-          items.map((item) => (
-            <div class='row my-2'>
-              <CardEvent {...item.data} slug={item.id} />
-            </div>
-          ))
-        }
+        <center>
+          {
+            items.map((item) => (
+              <div class='row my-2 mx-auto'>
+                <CardEvent {...item.data} slug={item.id} />
+              </div>
+            ))
+          }
+        </center>
       </div>
     </div>
   </div>

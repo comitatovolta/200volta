@@ -4,12 +4,7 @@
     "title": "200 Volta",
     "subtitle": " Comitato Nazionale per la Celebrazioni del bicentenario della morte di Alessandro Volta",
     "description": " Comitato Nazionale per la Celebrazioni del bicentenario della morte di Alessandro Volta",
-    "keywords": [
-      "volta",
-      "pila",
-      "bicentenario",
-      "200"
-    ],
+    "keywords": ["volta", "pila", "bicentenario", "200"],
     "image": "/assets/logo_comitato_200volta.jpg"
   },
   "socials": [
@@ -62,7 +57,7 @@
         },
         {
           "title": "EVENTI",
-          "link": "/events"
+          "link": "/eventi"
         }
       ]
     }

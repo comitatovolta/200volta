@@ -12,7 +12,7 @@ const { blocks, links } = Astro.props;
 <style>
   .menu-wrap {
     display: block;
-    margin: 10px;
+    margin:2px;
   }
   .content-wrap {
     display: block;
@@ -70,7 +70,7 @@ const { blocks, links } = Astro.props;
             case "section":
               return (
                 <div class='content-block my-md-5 px-md-5'>
-                  {b.linked && (
+                  {b.link && (
                     <a id={`${b.link || b.title.split(" ").join("_")}`} />
                   )}
                   {b.title && <h3 class='underline'>{b.title}</h3>}

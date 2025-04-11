@@ -57,9 +57,9 @@ if (heroBlock && heroBlock.image) {
   {hero && <HeroDetail {...hero} />}
   <div class='container my-5'>
     {!hero && <h1>{page.data.title}</h1>}
+    {people && people.map((obj: any) => <TeamBlock {...obj.teamBlock} />)}
     {blocks?.length>0 && <PageBlocks blocks={blocks} links={links} />}
     {timeline && <Timeline timeline={timeline} />}
-    {people && people.map((obj: any) => <TeamBlock {...obj.teamBlock} />)}
     {
       page.rendered?.html && (
         <div class='container my-5'>
