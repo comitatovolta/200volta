@@ -5,8 +5,8 @@ pubDate: 2025-04-10T15:58:00.000Z
 gallery: []
 blocks:
   - type: section
-    linked: true
-    title: OBBIETTIVI ED INIZIATIVE DELLE CELEBRAZIONI
+    linked: false
+    title: Obiettivi
     link: obiettivi
     body: >-
       ### OBBIETTIVI ED INIZIATIVE DELLE CELEBRAZIONI
@@ -28,8 +28,8 @@ blocks:
 
       * definizione delle strategie per promuovere, in particolar modo nei confronti dei giovani, i valori e il significato profondo della figura di Alessandro Volta, in ottica di maggiore consapevolezza e valorizzazione della storia nazionale.
   - type: section
-    linked: true
-    title: Finalita
+    linked: false
+    title: Finalità
     link: finalita
     body: >-
       ### RAZIONALE DEGLI OBIETTIVI DELLE CELEBRAZIONI
@@ -72,7 +72,7 @@ blocks:
 
       Ovviamente il tutto avverrà con lo spirito del massimo coinvolgimento delle istituzioni e delle associazioni locali e nazionali che intendo collaborare.
   - type: section
-    linked: true
+    linked: false
     title: Decreto
     link: decreto
     body: Decreto Legge ...
