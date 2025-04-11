@@ -71,19 +71,15 @@ blocks:
     linked: false
     title: DECRETO
     link: decreto
-    body: >-
+    body: >
       Decreti Legge: 
 
 
-      - [Decreto nomina comitato](https://200volta.netlify.app/assets/decreto_nomina_comitato-volta-signed.pdf)
+      - [Decreto_nomina_Comitato-Volta-signed](https://200volta.netlify.app/assets/Decreto_nomina_Comitato-Volta-signed.pdf)
 
-      - [Decreto nomina comitato](https://200volta.netlify.app/assets/decreto_nomina_comitato-volta-signed.pdf)
+      - [DTD-0745-A-visto_UBRRAC.pdf](https://200volta.netlify.app/assets/DTD-0745-A-visto_UBRRAC.pdf)
 
-      - [Decreto nomina comitato](https://200volta.netlify.app/assets/decreto_nomina_comitato-volta-signed.pdf)
-
-      - [Decreto nomina comitato](https://200volta.netlify.app/assets/decreto_nomina_comitato-volta-signed.pdf)
-
-      - [Decreto nomina comitato](https://200volta.netlify.app/assets/decreto_nomina_comitato-volta-signed.pdf)
+      - [DPCM-20-febbraio-2025-UBRRAC_visto-signed.pdf](https://200volta.netlify.app/assets/DPCM-20-febbraio-2025-UBRRAC_visto-signed.pdf)
 people:
   - teamBlock:
       title: PRESIDENTE
