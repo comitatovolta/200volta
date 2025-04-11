@@ -29,6 +29,26 @@ const logo = config.find((item) => item.id === "logo");
       href='https://fonts.googleapis.com/css2?family=Titillium+Web:wght@400&display=swap'
       rel='stylesheet'
     />
+    <script type='text/javascript'>
+      var _iub = _iub || [];
+      _iub.csConfiguration = {
+        "siteId": 3994792,
+        "cookiePolicyId": 63648714,
+        "lang": "it",
+        "storage": { "useSiteId": true },
+      };
+    </script>
+    <script
+      type='text/javascript'
+      src='https://cs.iubenda.com/autoblocking/3994792.js'></script>
+    <script type='text/javascript' src='//cdn.iubenda.com/cs/gpp/stub.js'
+    ></script>
+    <script
+      type='text/javascript'
+      src='//cdn.iubenda.com/cs/iubenda_cs.js'
+      charset='UTF-8'
+      async></script>
+
     <meta name='title' content={seo?.data.title || "Template Museo Civico"} />
     <meta name='description' content={seo?.data.description} />
     <meta name='keywords' content={seo?.data.keywords.join(",")} />
@@ -38,7 +58,7 @@ const logo = config.find((item) => item.id === "logo");
   >
 
   <body>
-    <div class="layout">
+    <div class='layout'>
       <Header
         data={header?.data[0]}
         socials={socials?.data}
@@ -57,4 +77,21 @@ const logo = config.find((item) => item.id === "logo");
     </div>
   </body>
   <script src={bsi}></script>
+  <!-- <script type='text/javascript'>
+    (function (w, d) {
+      var loader = function () {
+        var s = d.createElement("script"),
+          tag = d.getElementsByTagName("script")[0];
+        s.src = "https://cdn.iubenda.com/iubenda.js";
+        tag.parentNode.insertBefore(s, tag);
+      };
+      if (w.addEventListener) {
+        w.addEventListener("load", loader, false);
+      } else if (w.attachEvent) {
+        w.attachEvent("onload", loader);
+      } else {
+        w.onload = loader;
+      }
+    })(window, document);
+  </script> -->
 </html>
