@@ -6,12 +6,10 @@ gallery: []
 blocks:
   - type: section
     linked: false
-    title: Obiettivi
+    title: OBBIETTIVI ED INIZIATIVE DELLE CELEBRAZIONI
     link: obiettivi
     body: >-
-      ### OBBIETTIVI ED INIZIATIVE DELLE CELEBRAZIONI
-
-
+      
       Definizione del complesso dei programmi, iniziative e interventi individuati per rappresentare i valori e il significato profondo della personalità di Alessandro Volta.
 
 
@@ -29,12 +27,10 @@ blocks:
       * definizione delle strategie per promuovere, in particolar modo nei confronti dei giovani, i valori e il significato profondo della figura di Alessandro Volta, in ottica di maggiore consapevolezza e valorizzazione della storia nazionale.
   - type: section
     linked: false
-    title: Finalità
+    title: RAZIONALE DEGLI OBIETTIVI DELLE CELEBRAZIONI
     link: finalita
     body: >-
-      ### RAZIONALE DEGLI OBIETTIVI DELLE CELEBRAZIONI
-
-
+      
       Le articolate iniziative, organizzate nell’ambito del “Comitato nazionale per la celebrazione del bicentenario della morte di Alessandro Volta” (facendo riferimento all’art. 8, DPCM Comitato Volta 30.1.2025), intendono elevare la consapevolezza ed attualizzazione del lascito voltiano, sia per le nuove generazioni sia per lo sviluppo delle nuove frontiere tecnologiche. In particolare saranno organizzate iniziative, con orizzonte nazionale, per:
 
 
@@ -73,7 +69,7 @@ blocks:
       Ovviamente il tutto avverrà con lo spirito del massimo coinvolgimento delle istituzioni e delle associazioni locali e nazionali che intendo collaborare.
   - type: section
     linked: false
-    title: Decreto
+    title: DECRETO
     link: decreto
     body: >-
       Decreti Legge: 
