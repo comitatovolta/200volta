@@ -89,12 +89,12 @@ people:
       title: PRESIDENTE
       team:
         - person:
-            name: MASSIMO INGUSCIO
-            role: Università Campus Bio-medico di Roma (UCBM) European Laboratory for Non
-              Linear Spectroscopy (LENS), Firenze Accademia Nazionale dei Lincei
+            name: VINCENZO VESPRI
+            role: Docente di Analisi Matematica presso il Dipartimento di Matematica ed
+              Informatica “Ulisse Dini” -  Università degli Studi di Firenze
             info: " Rappresentante individuato dal Sottosegretario di Stato con delega
               all’innovazione tecnologica e alla transizione digitale."
-            pic: /assets/INGUSCIO.jpg
+            pic: /assets/vincenzo-vespri.png
   - teamBlock:
       title: CONSIGLIO SCIENTIFICO
       team:
