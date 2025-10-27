@@ -30,17 +30,22 @@ blocks:
     title: RAZIONALE DEGLI OBIETTIVI DELLE CELEBRAZIONI
     link: finalita
     body: >-
-      
-      Le articolate iniziative, organizzate nell’ambito del “Comitato nazionale per la celebrazione del bicentenario della morte di Alessandro Volta” (facendo riferimento all’art. 8, DPCM Comitato Volta 30.1.2025), intendono elevare la consapevolezza ed attualizzazione del lascito voltiano, sia per le nuove generazioni sia per lo sviluppo delle nuove frontiere tecnologiche. In particolare saranno organizzate iniziative, con orizzonte nazionale, per:
+      Le articolate iniziative, organizzate nell’ambito del “Comitato nazionale
+      per la celebrazione del bicentenario della morte di Alessandro Volta”
+      (facendo riferimento all’art. 8, DPCM Comitato Volta 30.1.2025), intendono
+      elevare la consapevolezza ed attualizzazione del lascito voltiano, sia per
+      le nuove generazioni sia per lo sviluppo delle nuove frontiere
+      tecnologiche. In particolare saranno organizzate iniziative, con orizzonte
+      nazionale, per:
 
 
-      * \- approfondire e divulgare scientificamente le opere e la vita di Alessandro Volta; 
+      * approfondire e divulgare scientificamente le opere e la vita di Alessandro Volta; 
 
-      * \- approfondire e divulgare l’influenza dell’opera voltiana sul processo di sviluppo scientifico e tecnologico, come spunto ed ispirazione per nuovi sviluppi tecnologici; 
+      * approfondire e divulgare l’influenza dell’opera voltiana sul processo di sviluppo scientifico e tecnologico, come spunto ed ispirazione per nuovi sviluppi tecnologici; 
 
-      * \- attualizzare l’identità voltiana a beneficio dei giovani, per costruire una coscienza nazionale giovanile, in particolare relativamente ai temi di umanizzazione della tecnologia; 
+      * attualizzare l’identità voltiana a beneficio dei giovani, per costruire una coscienza nazionale giovanile, in particolare relativamente ai temi di umanizzazione della tecnologia; 
 
-      * \- sensibilizzare ai temi di sostenibilità energetica relativa alle batterie ed al metano.
+      * sensibilizzare ai temi di sostenibilità energetica relativa alle batterie ed al metano.
 
 
       I principi, gli indirizzi generali e gli obiettivi della programmazione del comitato nazionale desiderano quindi collegarsi a specifiche focalizzazioni. I giovani per generare una coscienza nazionale giovanile, di futuri italiani che, nell’orgoglio della storia dei propri concittadini, ritrovano anche stimoli per un dibattito culturale attuale, virtuoso e utile. 
