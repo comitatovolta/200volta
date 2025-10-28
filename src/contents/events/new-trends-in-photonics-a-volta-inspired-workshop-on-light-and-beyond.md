@@ -13,6 +13,8 @@ location: Villa Saporiti e Chiostro di Sant’Abbondio, Como
 tags:
   - events
 ---
+![](/assets/foto-congresso-como-16-9-2025-equipe-international-riccardo-liporace-17-.jpg)
+
 Il programma ha previsto tre giornate di workshop e dibattiti che sono iniziati **martedì 16 settembre 2025**, presso **Villa Gallia** a Como, dove si è tenuta la presentazione ufficiale del CLIP - Como Lake Institute of Photonics alla presenza di istituzioni, rappresentanti del Comitato Nazionale per la Celebrazione del Bicentenario della morte di Alessandro Volta e dell’Università degli Studi dell’Insubria. 
 
 Nello stesso giorno si è tenuta la *Keynote Lecture tenuta dal Prof. Jerome V Moloney della University of Arizona, Tucson, USA,* oltre alle ulteriori sessioni scientifiche che hanno arricchito il programma.
