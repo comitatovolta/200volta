@@ -79,6 +79,9 @@ blocks:
     body: >-
       Decreti Legge: 
 
+      - [dpcm_nomina_sostituto_presidente_e_sostituto_membro_signed.pdf](https://200volta.netlify.app/assets/dpcm_nomina_sostituto_presidente_e_sostituto_membro_signed.pdf)
+
+      - [dpcm-15-ottobre-2025_sostituto-consiglio-scientifico_signed.pdf](https://200volta.netlify.app/assets/dpcm-15-ottobre-2025_sostituto-consiglio-scientifico_signed.pdf)
 
       - [Decreto_nomina_Comitato-Volta-signed.pdf](https://200volta.netlify.app/assets/Decreto_nomina_Comitato-Volta-signed.pdf)
 
