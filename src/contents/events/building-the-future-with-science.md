@@ -35,3 +35,5 @@ Volta fu maestro anche in questo. Non solo genio, scienziato e inventore, ma div
 Un omaggio che oggi torna quanto mai attuale: è ormai maturo il tempo per riconoscere il nome di Volta anche nel sistema internazionale delle misurazioni. La metrologia moderna, nell’istituzione del “Bureau Internazionale di Pesi e Misure”, sta valutando (accogliendo la proposta del Governo italiano, nella figura del Sottosegretario all’Innovazione e Trasformazione Digitale della Presidenza del Consiglio, Sen. Alessio Butti, di concerto con il Comitato Nazionale) l’introduzione dell’unità di misura “Volta” per onorare lo scienziato italiano che ha cambiato il corso della scienza, dell’energia, della storia e del nostro vivere.  
 
 Il Comitato Nazionale ha redatto un triennio di iniziative per diffondere la memoria di Volta e il ruolo della scienza per costruire il futuro. Il prossimo appuntamento a giugno 2025.
+
+![](/assets/and_3764.jpg)
