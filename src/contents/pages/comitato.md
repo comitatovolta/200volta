@@ -183,4 +183,10 @@ people:
             info: Rappresentante designato dall’Autorità politica delegata in materia di
               Anniversari nazionali.
             pic: /assets/CASATI.jpg
+        - person:
+            name: GIUSEPPE FRANGI
+            pic: /assets/frangi.png
+            role: Presidente dell’Associazione Giovanni Testori e fondatore di Casa Testori
+              a Novate Milanese
+            info: Rappresentante designato dal Presidente della Regione Lombardia.
 ---
