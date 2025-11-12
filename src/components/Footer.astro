@@ -3,37 +3,75 @@ const props = Astro.props;
 const { socials, seo, logo } = props;
 const rows = props.data[0].rows;
 ---
+<style  lang='css'>
+.it-brand-wrapper{
+  display: flex;
+  flex-direction: column;
+}
+.footer-logo-container{
+  paddingLeft: 15px;
+  width:100%;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  justify-content: start;
+}
+@media (min-width: 100em) {
+ .footer-logo-container {
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+}
+</style>
 
 <footer class='it-footer'>
   <div class='it-footer-main'>
-    <div class='container'>
-      <section>
-        <div class='row clearfix'>
-          <div class='col-sm-12'>
-            <div class='it-brand-wrapper'>
-              <a href='/' data-focus-mouse='false'>
-                {
-                  logo ? (
-                    <img src={logo} class='logo' alt={"logo"} loading='lazy' />
-                  ) : (
-                    <svg class='icon' aria-hidden='true'>
-                      <use href='/icons/sprites.svg#it-pa' />
-                    </svg>
-                  )
-                }
-                {
-                  !logo && (
-                    <div class='it-brand-text'>
-                      <h2>{seo.title}</h2>
-                      <h3 class='d-none d-md-block'>{seo.subtitle}</h3>
-                    </div>
-                  )
-                }
-              </a>
-            </div>
+
+
+    <section>
+      <div class='row clearfix'>
+        <div class='col-lg-12'>
+          <div class='footer-logo-container'>
+              <div class='it-brand-wrapper'>
+                <a href='/' data-focus-mouse='false'>
+                  {
+                    logo ? (
+                      <img src={logo} class='logo' alt={"logo"} loading='lazy' />
+                    ) : (
+                      <svg class='icon' aria-hidden='true'>
+                        <use href='/icons/sprites.svg#it-pa' />
+                      </svg>
+                    )
+                  }
+                  {
+                    !logo && (
+                      <div class='it-brand-text'>
+                        <h2>{seo.title}</h2>
+                        <h3 class='d-none d-md-block'>{seo.subtitle}</h3>
+                      </div>
+                    )
+                  }
+                </a>
+              </div>
+
+              <div class='it-brand-wrapper'>CON IL SOSTEGNO DI:
+                <img src={"/assets/logo-dtd.png"}  alt={"dipartimento trasformazione digitale"} loading='lazy' />
+              </div>
+
+              <div class='it-brand-wrapper'>
+                <img src={"/assets/logo-min-cultura.png"}    alt={"ministero della cultura"} loading='lazy' />
+              </div>
+
+              <div class='it-brand-wrapper'>CON IL SUPPORTO DI:
+                <img src={"/assets/logo-min-sport-giovani.png"}   alt={"ministro per lo sport e i giovani"} loading='lazy' />
+              </div>
           </div>
         </div>
-      </section>
+      </div>
+    </section>
+
+      <div class='container'>
       {
         rows.map((row: any, index: number) => {
           const cn = index > 0 ? "py-4 border-white border-top" : "";
@@ -99,28 +137,29 @@ const rows = props.data[0].rows;
         })
       }
     </div>
-  </div>
-  <div class='it-footer-small-prints clearfix'>
-    <div class='container'>
-      <!-- <h3 class="visually-hidden">Sezione Link Utili</h3> -->
-      <ul
-        class='it-footer-small-prints-list list-inline mb-0 d-flex flex-column flex-md-row'
-      >
-        <li class='list-inline-item'>
-          <a
-            href='https://www.iubenda.com/privacy-policy/63648714'
-            class='iubenda-white iubenda-noiframe iubenda-embed iubenda-noiframe'
-            title='Privacy Policy '>Privacy Policy</a
-          >
-        </li>
-        <li class='list-inline-item'>
-          <a
-            href='https://www.iubenda.com/privacy-policy/63648714/cookie-policy'
-            class='iubenda-white iubenda-noiframe iubenda-embed iubenda-noiframe'
-            title='Cookie Policy '>Cookie Policy</a
-          >
-        </li>
-      </ul>
+
     </div>
-  </div>
+    <div class='it-footer-small-prints clearfix'>
+      <div class='container'>
+        <!-- <h3 class="visually-hidden">Sezione Link Utili</h3> -->
+        <ul
+          class='it-footer-small-prints-list list-inline mb-0 d-flex flex-column flex-md-row'
+        >
+          <li class='list-inline-item'>
+            <a
+              href='https://www.iubenda.com/privacy-policy/63648714'
+              class='iubenda-white iubenda-noiframe iubenda-embed iubenda-noiframe'
+              title='Privacy Policy '>Privacy Policy</a
+            >
+          </li>
+          <li class='list-inline-item'>
+            <a
+              href='https://www.iubenda.com/privacy-policy/63648714/cookie-policy'
+              class='iubenda-white iubenda-noiframe iubenda-embed iubenda-noiframe'
+              title='Cookie Policy '>Cookie Policy</a
+            >
+          </li>
+        </ul>
+      </div>
+    </div>
 </footer>
