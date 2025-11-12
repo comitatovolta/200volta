@@ -67,7 +67,12 @@
         {
           "title": "BANDI-AVVISI ",
           "link": "/bandi-e-avvisi",
-          "childs": []
+          "childs": [
+            {
+              "title": "aaa",
+              "link": "aaaa"
+            }
+          ]
         }
       ]
     }
