@@ -65,9 +65,8 @@
           "link": "/eventi"
         },
         {
-          "title": "BANDI E AVVISI ",
           "link": "/bandi-e-avvisi",
-          "childs": []
+          "title": "BANDI-AVVISI"
         }
       ]
     }
