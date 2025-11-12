@@ -78,7 +78,7 @@ const newsletter = home.find((item: any) => item.id === "newsletter")?.data;
               {section.type === "events" && (
                 <div class='row'>
                   <div class='row gap-4 mt-5 mx-auto'>
-                    {allEvents.map((item) => (
+                    {allEvents.reverse().map((item) => (
                       <div>
                         <CardEvent {...item.data} slug={item.id} />
                       </div>

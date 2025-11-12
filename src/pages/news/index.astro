@@ -17,7 +17,7 @@ const items = await getCollection("news");
     <div class='mt-5'>
       <div class='row row-cols-1 row-cols-lg-3 gx-lg-5 gy-5'>
         {
-          items.map((item) => (
+          items.reverse().map((item) => (
             <div class='col'>
               <CardNews {...item.data} slug={item.id} />
             </div>

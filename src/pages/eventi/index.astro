@@ -18,7 +18,7 @@ const items = await getCollection("events");
       <div class='row'>
         <center>
           {
-            items.map((item) => (
+            items.reverse().map((item) => (
               <div class='row my-2 mx-auto'>
                 <CardEvent {...item.data} slug={item.id} />
               </div>
