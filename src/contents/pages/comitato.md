@@ -191,7 +191,7 @@ people:
             info: Rappresentante designato dal Presidente della Regione Lombardia.
         - person:
             name: SILVIA CAROSINI
-            role: Segretario generale del Comitato Nazionale
+            role: Segretario Generale del Comitato Nazionale
             info: Rappresentante individuato dal Sottosegretario di Stato con delega
               all’innovazione tecnologica e alla transizione digitale.
             pic: /assets/carosini.jpg
