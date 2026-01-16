@@ -104,6 +104,16 @@ people:
               all’innovazione tecnologica e alla transizione digitale."
             pic: /assets/vincenzo-vespri.png
   - teamBlock:
+      title: SEGRETARIO GENERALE
+      team:
+        - person:
+            name: SILVIA CAROSINI
+            info: Rappresentante individuato dal Sottosegretario di Stato con delega
+              all’innovazione tecnologica e alla transizione digitale.
+            role: Avvocato / Dipartimento per l’Innovazione tecnologica e la Transizione
+              digitale
+            pic: /assets/carosini.jpg
+  - teamBlock:
       title: CONSIGLIO SCIENTIFICO
       team:
         - person:
@@ -189,10 +199,4 @@ people:
             role: Presidente dell’Associazione Giovanni Testori e fondatore di Casa Testori
               a Novate Milanese
             info: Rappresentante designato dal Presidente della Regione Lombardia.
-        - person:
-            name: SILVIA CAROSINI
-            role: Segretario Generale del Comitato Nazionale
-            info: Rappresentante individuato dal Sottosegretario di Stato con delega
-              all’innovazione tecnologica e alla transizione digitale.
-            pic: /assets/carosini.jpg
 ---
