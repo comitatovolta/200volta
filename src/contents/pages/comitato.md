@@ -149,12 +149,12 @@ people:
               Università di Pavia.
             info: Rappresentante designato dal Rettore dell’Università degli Studi di Pavia.
         - person:
-            name: ALBERTO QUADRIO CURZIO
-            role: Professore Emerito di Economia politica all'Università Cattolica di
-              Milano. Presidente Emerito dell’Accademia.
+            name: ROBERTO ZOBOLI
+            role: Professore Ordinario di Politica Economica, Università Cattolica del S.
+              Cuore, Milano.
             info: Rappresentante designato dal Presidente dell’Accademia Nazionale dei
               Lincei.
-            pic: /assets/QUADRIO-CURZIO.jpg
+            pic: /assets/zoboli.jpg
   - teamBlock:
       title: COMITATO ESECUTIVO
       team:
