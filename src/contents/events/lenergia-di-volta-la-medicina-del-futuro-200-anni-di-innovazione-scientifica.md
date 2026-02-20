@@ -14,7 +14,7 @@ description: "L'energia di Volta, la medicina del futuro è l'evento promosso da
   scienze di frontiera, incluse le applicazioni della tecnologia quantistica in
   ambito medico e biomedico. Un appuntamento che intreccia ricerca, innovazione
   e impatto sociale nel segno di 200 anni di progresso scientifico."
-from: 2026-03-16T11:00:00.000+01:00
+from: ""
 location: Villa Erba, Cernobbio (Como)
 tags:
   - events
