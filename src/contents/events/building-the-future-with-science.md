@@ -8,8 +8,8 @@ description: "Il Convegno â€œAlessandro Volta: Building the Future with Scienceâ
   bicentenario della morte di Alessandro Volta e inaugura un ciclo di iniziative
   volte a promuovere la figura di Alessandro Volta e il valore della scienza
   come motore del progresso. "
-from: ""
-to: ""
+from: 2025-04-14T14:00:00.000+02:00
+to: 2025-04-15T18:00:00.000+02:00
 location: Villa Erba | Cernobbio, Como
 url: ""
 tags:
