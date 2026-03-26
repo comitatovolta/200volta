@@ -2,7 +2,7 @@
 image:
   alt: "locandina New Trends in Photonics "
   url: /assets/immagine.jpg
-title: New Trends in Photonics - A Volta-Inspired Workshop on Light and Beyond
+title: "New Trends in Photonics - A Volta-Inspired Workshop on Light and Beyond "
 description: "Promosso dal Comitato Nazionale per la Celebrazione del
   Bicentenario della morte di Alessandro Volta in collaborazione con il
   Dipartimento di Scienza e Alta Tecnologia dell’Università degli Studi
