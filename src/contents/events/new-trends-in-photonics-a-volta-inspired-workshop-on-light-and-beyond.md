@@ -9,7 +9,7 @@ description: "Promosso dal Comitato Nazionale per la Celebrazione del
   dell’Insubria. L’iniziativa segnerà l’inaugurazione ufficiale del nuovo Como
   Lake Institute of Photonics (CLIP), centro di ricerca dedicato alla fotonica,
   disciplina chiave per lo sviluppo scientifico e tecnologico. "
-from: ""
+from: 2025-09-16T10:00:00.000+02:00
 to: 2025-09-18T17:00:00.000+02:00
 location: Villa Saporiti e Chiostro di Sant’Abbondio, Como
 tags:
