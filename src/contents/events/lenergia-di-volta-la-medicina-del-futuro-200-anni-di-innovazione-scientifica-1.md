@@ -36,7 +36,7 @@ ha reso possibile la strumentazione diagnostica moderna, i dispositivi
 elettromedicali e molte delle tecnologie cliniche che diamo per scontate, la
 medicina contemporanea sta compiendo un ulteriore salto di scala: integrare
 dati, conoscenza e strumenti avanzati per anticipare i rischi, personalizzare i
-percorsi di cura e aumentare l'efficacia delle terapie. 
+percorsi di cura e aumentare l'efficacia delle terapie.  
 
 ![](/assets/652755674_18076039628452899_6248665210567428679_n.jpg)
 
