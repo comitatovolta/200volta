@@ -38,6 +38,8 @@ medicina contemporanea sta compiendo un ulteriore salto di scala: integrare
 dati, conoscenza e strumenti avanzati per anticipare i rischi, personalizzare i
 percorsi di cura e aumentare l'efficacia delle terapie. 
 
+![](/assets/652755674_18076039628452899_6248665210567428679_n.jpg)
+
 In questo scenario, il valore dell'eredità di Volta è anche metodologico: rigore
 sperimentale, misurabilità, capacità di tradurre la ricerca in soluzioni
 concrete. Oggi quel metodo si ritrova nell'evoluzione verso una medicina sempre
