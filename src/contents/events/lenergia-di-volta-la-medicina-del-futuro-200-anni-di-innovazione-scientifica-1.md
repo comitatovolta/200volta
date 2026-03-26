@@ -1,8 +1,9 @@
 ---
 image:
   alt: thumb
-  url: /assets/ok2-immagine-2026.jpg
-title: L'energia di Volta, la medicina del futuro. 200 anni di innovazione scientifica
+  url: /assets/ok-immagine-2026_1920x1080.jpg
+title: "L'energia di Volta, la medicina del futuro. 200 anni di innovazione
+  scientifica "
 description: "L'energia di Volta, la medicina del futuro è l'evento promosso dal
   Comitato Nazionale per la Celebrazione del Bicentenario della morte di
   Alessandro Volta, nell'ambito delle celebrazioni voltiane. A partire dalla
