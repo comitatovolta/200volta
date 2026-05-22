@@ -79,19 +79,24 @@ blocks:
     body: >-
       Decreti Legge: 
 
-      - [dpcm_nomina_sostituto_presidente_e_sostituto_membro_signed.pdf](https://200volta.netlify.app/assets/dpcm_nomina_sostituto_presidente_e_sostituto_membro_signed.pdf)
 
-      - [dpcm-15-ottobre-2025_sostituto-consiglio-scientifico_signed.pdf](https://200volta.netlify.app/assets/dpcm-15-ottobre-2025_sostituto-consiglio-scientifico_signed.pdf)
+      * dpcm_volta_rendiconto.docx_signed-1-.pdf
 
-      - [Decreto_nomina_Comitato-Volta-signed.pdf](https://200volta.netlify.app/assets/Decreto_nomina_Comitato-Volta-signed.pdf)
+      * [dpcm_nomina_sostituto_presidente_e_sostituto_membro_signed.pdf](https://200volta.netlify.app/assets/dpcm_nomina_sostituto_presidente_e_sostituto_membro_signed.pdf)
 
-      - [DPCM_NOMINA_def_signed.pdf](https://200volta.netlify.app/assets/DPCM_NOMINA_def_signed.pdf)
+      * [dpcm-15-ottobre-2025_sostituto-consiglio-scientifico_signed.pdf](https://200volta.netlify.app/assets/dpcm-15-ottobre-2025_sostituto-consiglio-scientifico_signed.pdf)
 
-      - [DTD-0745-A-visto_UBRRAC.pdf](https://200volta.netlify.app/assets/DTD-0745-A-visto_UBRRAC.pdf)
+      * [Decreto_nomina_Comitato-Volta-signed.pdf](https://200volta.netlify.app/assets/Decreto_nomina_Comitato-Volta-signed.pdf)
 
-      - [DPCM-20-febbraio-2025-UBRRAC_visto-signed.pdf](https://200volta.netlify.app/assets/DPCM-20-febbraio-2025-UBRRAC_visto-signed.pdf)
+      * [DPCM_NOMINA_def_signed.pdf](https://200volta.netlify.app/assets/DPCM_NOMINA_def_signed.pdf)
 
-      - [RegistrazioneFascicolo_177811.pdf](https://200volta.netlify.app/assets/RegistrazioneFascicolo_177811.pdf)
+      * [DTD-0745-A-visto_UBRRAC.pdf](https://200volta.netlify.app/assets/DTD-0745-A-visto_UBRRAC.pdf)
+
+      * [DPCM-20-febbraio-2025-UBRRAC_visto-signed.pdf](https://200volta.netlify.app/assets/DPCM-20-febbraio-2025-UBRRAC_visto-signed.pdf)
+
+      * [RegistrazioneFascicolo_177811.pdf](https://200volta.netlify.app/assets/RegistrazioneFascicolo_177811.pdf)
+
+      *
 people:
   - teamBlock:
       title: PRESIDENTE
