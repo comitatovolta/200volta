@@ -80,8 +80,6 @@ blocks:
       Decreti Legge: 
 
 
-      * dpcm_volta_rendiconto.docx_signed-1-.pdf
-
       * [dpcm_nomina_sostituto_presidente_e_sostituto_membro_signed.pdf](https://200volta.netlify.app/assets/dpcm_nomina_sostituto_presidente_e_sostituto_membro_signed.pdf)
 
       * [dpcm-15-ottobre-2025_sostituto-consiglio-scientifico_signed.pdf](https://200volta.netlify.app/assets/dpcm-15-ottobre-2025_sostituto-consiglio-scientifico_signed.pdf)
@@ -95,8 +93,6 @@ blocks:
       * [DPCM-20-febbraio-2025-UBRRAC_visto-signed.pdf](https://200volta.netlify.app/assets/DPCM-20-febbraio-2025-UBRRAC_visto-signed.pdf)
 
       * [RegistrazioneFascicolo_177811.pdf](https://200volta.netlify.app/assets/RegistrazioneFascicolo_177811.pdf)
-
-      *
 people:
   - teamBlock:
       title: PRESIDENTE
