@@ -75,7 +75,7 @@ blocks:
   - type: section
     linked: false
     title: DECRETI
-    link: decreto
+    link: decreti
     body: >-
       Decreti Legge: 
 
