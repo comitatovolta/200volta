@@ -74,7 +74,7 @@ blocks:
       Ovviamente il tutto avverrà con lo spirito del massimo coinvolgimento delle istituzioni e delle associazioni locali e nazionali che intendo collaborare.
   - type: section
     linked: false
-    title: DECRETO
+    title: DECRETI
     link: decreto
     body: >-
       Decreti Legge: 
@@ -85,6 +85,8 @@ blocks:
       * [appunto__relazione_ss_def\_signed\_.pdf](https://200volta.netlify.app/assets/appunto__relazione_ss_def_signed_.pdf)
 
       * [all.-1-impegni-31.12.2025_com-volta.pdf](https://200volta.netlify.app/assets/all.-1-impegni-31.12.2025_com-volta.pdf)
+
+      * [all.-2a-rendiconto_competenza.pdf](https://200volta.netlify.app/assets/public/assets/all.-2a-rendiconto_competenza.pdf)
 
       * [dpcm_nomina_sostituto_presidente_e_sostituto_membro_signed.pdf](https://200volta.netlify.app/assets/public/assets/dpcm_nomina_sostituto_presidente_e_sostituto_membro_signed.pdf)
 
