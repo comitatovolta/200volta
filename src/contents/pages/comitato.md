@@ -86,7 +86,7 @@ blocks:
 
       * [all.-1-impegni-31.12.2025_com-volta.pdf](https://200volta.netlify.app/assets/all.-1-impegni-31.12.2025_com-volta.pdf)
 
-      * [dpcm_nomina_sostituto_presidente_e_sostituto_membro_signed.pdf](https://200volta.netlify.app/assets/dpcm_volta_rendiconto.docx_signed-1-.pdf)
+      * [dpcm_nomina_sostituto_presidente_e_sostituto_membro_signed.pdf](https://200volta.netlify.app/assets/public/assets/dpcm_nomina_sostituto_presidente_e_sostituto_membro_signed.pdf)
 
       * [dpcm-15-ottobre-2025_sostituto-consiglio-scientifico_signed.pdf](https://200volta.netlify.app/assets/dpcm-15-ottobre-2025_sostituto-consiglio-scientifico_signed.pdf)
 
