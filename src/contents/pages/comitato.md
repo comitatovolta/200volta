@@ -82,6 +82,8 @@ blocks:
 
       * [dpcm_volta_rendiconto.docx_signed-1-.pdf](https://200volta.it/asset/dpcm_volta_rendiconto.docx_signed-1-.pdf)
 
+      * [appunto__relazione_ss_def\_signed\_.pdf](http://200volta.it/asset/appunto__relazione_ss_def_signed_.pdf)
+
       * [dpcm_nomina_sostituto_presidente_e_sostituto_membro_signed.pdf](www.200volta.it/public/assets/dpcm_volta_rendiconto.docx_signed-1-.pdf)
 
       * [dpcm-15-ottobre-2025_sostituto-consiglio-scientifico_signed.pdf](https://200volta.netlify.app/assets/dpcm-15-ottobre-2025_sostituto-consiglio-scientifico_signed.pdf)
