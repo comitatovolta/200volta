@@ -464,6 +464,7 @@ collections:
           widget: "image",
           choose_url: true,
           media_library: { config: { multiple: true, max_files: 512000 } },
+          required: false,
         }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "works"
