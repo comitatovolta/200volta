@@ -460,7 +460,8 @@ collections:
           required: false,
         }
       - {
-          name: "Gallery",
+          label: "Gallery",
+          name: "gallery",
           widget: "image",
           choose_url: true,
           media_library: { config: { multiple: true, max_files: 512000 } },
