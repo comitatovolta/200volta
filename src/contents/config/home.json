@@ -27,6 +27,10 @@
     {
       "type": "events",
       "title": "Iniziative"
+    },
+    {
+      "title": "News",
+      "type": "news"
     }
   ],
   "blocks": [
