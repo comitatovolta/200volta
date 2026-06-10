@@ -3,6 +3,7 @@ import { getCollection } from "astro:content";
 import Layout from "../../layouts/Layout.astro";
 import HeroDetail from "../../components/HeroDetail.astro";
 import BreadCrumbs from "../../components/BreadCrumbs.astro";
+import Gallery from "../../components/Gallery.astro";
 
 export async function getStaticPaths() {
   const items = await getCollection("events");
@@ -68,6 +69,11 @@ const toDate = to
       </div>
     </div>
     <p set:html={item.rendered?.html} />
+    {
+      item.data.gallery?.length > 0 && (
+        <Gallery images={item.data.gallery} title='Gallery' />
+      )
+    }
   </div>
   <!-- <pre>{JSON.stringify(item,null,2)}</pre> -->
 </Layout>

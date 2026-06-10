@@ -16,6 +16,7 @@
     "astro": "^5.5.5",
     "bootstrap-italia": "^2.14.0",
     "decap-cms-app": "^3.6.2",
+    "glightbox": "^3.3.1",
     "marked": "^15.0.7",
     "prettier": "^3.5.3",
     "prettier-plugin-astro": "^0.14.1",
