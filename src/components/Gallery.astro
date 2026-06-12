@@ -1,0 +1,59 @@
+---
+interface Props {
+  images: string[];
+  title?: string;
+}
+
+const { images, title } = Astro.props;
+---
+
+<style lang='scss'>
+  .gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.75rem;
+
+    @media (min-width: 768px) {
+      grid-template-columns: repeat(4, 1fr);
+    }
+  }
+
+  .gallery-item {
+    display: block;
+    overflow: hidden;
+    border-radius: 4px;
+
+    img {
+      width: 100%;
+      aspect-ratio: 1 / 1;
+      object-fit: cover;
+      transition: transform 0.3s ease;
+    }
+
+    &:hover img {
+      transform: scale(1.05);
+    }
+  }
+</style>
+
+{
+  images?.length > 0 && (
+    <section class='my-5'>
+      {title && <h2 class='mb-3'>{title}</h2>}
+      <div class='gallery-grid'>
+        {images.map((src) => (
+          <a href={src} class='gallery-item glightbox' data-gallery='event-gallery'>
+            <img src={src} alt='' loading='lazy' />
+          </a>
+        ))}
+      </div>
+    </section>
+  )
+}
+
+<script>
+  import GLightbox from "glightbox";
+  import "glightbox/dist/css/glightbox.min.css";
+
+  GLightbox({ selector: ".glightbox" });
+</script>

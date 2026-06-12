@@ -10,6 +10,19 @@ const works = defineCollection({
 
 const events = defineCollection({
   loader: glob({ pattern: "**/*.md", base: "./src/contents/events" }),
+  schema: z.object({
+    image: z
+      .object({ url: z.string(), alt: z.string().optional() })
+      .optional(),
+    title: z.string(),
+    description: z.string().optional(),
+    from: z.coerce.date().optional(),
+    to: z.coerce.date().optional(),
+    location: z.string().optional(),
+    url: z.string().optional(),
+    tags: z.array(z.string()).optional(),
+    gallery: z.array(z.string()).optional(),
+  }),
 });
 
 const pages = defineCollection({
