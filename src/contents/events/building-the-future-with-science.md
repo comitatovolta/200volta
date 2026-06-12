@@ -16,7 +16,6 @@ tags:
   - events
 gallery:
   - /assets/and_3764.jpg
-  - /assets/foto-congresso-como-16-9-2025-equipe-international-riccardo-liporace-17-.jpg
   - /assets/652755674_18076039628452899_6248665210567428679_n.jpg
   - /assets/652426033_1382472853683629_5127150640943259741_n.jpg
 ---
