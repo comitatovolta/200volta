@@ -14,7 +14,9 @@ location: Villa Erba | Cernobbio, Como
 url: ""
 tags:
   - events
-gallery: ""
+gallery:
+  - /assets/and_3764.jpg
+  - /assets/immagine-ok.jpg
 ---
 **ALESSANDRO VOLTA: BUILDING THE FUTURE WITH SCIENCE** 
 
