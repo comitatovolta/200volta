@@ -9,7 +9,7 @@ blocks:
     body: >-
       Le richieste di patrocinio devono essere inviate al Comitato
       esclusivamente tramite la compilazione del modulo online disponibile nella
-      sezione di [RICHIESTA PATROCINIO](richiesta-patrocinio) 
+      sezione di [RICHIESTA PATROCINIO](#richiesta-patrocinio) 
 
 
       In caso di esito positivo, l’approvazione sarà comunicata all’indirizzo email indicato nella richiesta.
