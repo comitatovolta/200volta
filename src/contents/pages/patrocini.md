@@ -9,7 +9,7 @@ blocks:
     body: >-
       Le richieste di patrocinio devono essere inviate al Comitato
       esclusivamente tramite la compilazione del modulo online disponibile nella
-      sezione di RICHIESTA PATROCINIO 
+      sezione di [RICHIESTA PATROCINIO](richiesta-patrocinio) 
 
 
       In caso di esito positivo, l’approvazione sarà comunicata all’indirizzo email indicato nella richiesta.
@@ -19,12 +19,12 @@ blocks:
   - type: section
     linked: true
     title: RICHIESTA PATROCINIO
-    link: RICHIESTA PATROCINIO
+    link: richiesta-patrocinio
     body: "##  Modulo di richiesta patrocinio non oneroso"
   - type: section
     linked: true
     title: REGOLAMENTO LOGO
-    link: REGOLAMENTO LOGO
+    link: regolamento-logo
     body: >-
       ##### REGOLAMENTO PER LA CONCESSIONE DEL PATROCINIO NON ONEROSO DEL
       “COMITATO NAZIONALE PER LA CELEBRAZIONE DEL BICENTENARIO DELLA MORTE DI
@@ -64,7 +64,7 @@ blocks:
       ###### Art. 4
 
 
-      * La richiesta di patrocinio deve essere presentata tramite la compilazione del modulo  nella sezione RICHIESTA PATROCINIO
+      * La richiesta di patrocinio deve essere presentata tramite la compilazione del modulo  nella sezione [RICHIESTA PATROCINIO](#richiesta-patrocinio)
 
 
       ###### Art. 5
