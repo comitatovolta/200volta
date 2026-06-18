@@ -290,6 +290,12 @@ collections:
                   widget: "markdown",
                   required: true,
                 }
+              - {
+                  label: "Form name",
+                  name: "form",
+                  widget: "string",
+                  required: false,
+                }
           - label: "Image Block"
             name: "imageBlock"
             widget: "object"
