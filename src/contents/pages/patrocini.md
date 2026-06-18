@@ -1,6 +1,6 @@
 ---
 title: Patrocini
-pubDate: 2026-06-18T11:50:00.000+02:00
+pubDate: 2026-06-18T12:01:00.000+02:00
 blocks:
   - type: section
     linked: true
