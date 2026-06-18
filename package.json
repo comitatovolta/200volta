@@ -11,7 +11,6 @@
   },
   "dependencies": {
     "@astrojs/react": "^4.2.2",
-    "@formspree/ajax": "^1.1.5",
     "@types/react": "^19.0.12",
     "@types/react-dom": "^19.0.4",
     "astro": "^5.5.5",
@@ -25,6 +24,7 @@
     "react-dom": "^19.1.0"
   },
   "devDependencies": {
+    "@formspree/react": "^3.0.0",
     "sass-embedded": "^1.86.0"
   }
 }
