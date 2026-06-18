@@ -18,6 +18,11 @@ blocks:
       Si invita a consultare attentamente il Regolamento per l’utilizzo del logo.
   - type: section
     linked: true
+    title: RICHIESTA PATROCINIO
+    link: RICHIESTA PATROCINIO
+    body: "##  Modulo di richiesta patrocinio non oneroso"
+  - type: section
+    linked: true
     title: REGOLAMENTO LOGO
     link: REGOLAMENTO LOGO
     body: >-
@@ -71,11 +76,4 @@ blocks:
     title: "ELENCO PATROCINI RILASCIATI  "
     link: ""
     body: " In corso di valutazione"
-  - type: section
-    linked: true
-    title: RICHIESTA PATROCINIO
-    link: RICHIESTA PATROCINIO
-    body: "##  Modulo di richiesta patrocinio non oneroso"
 ---
- 
-
