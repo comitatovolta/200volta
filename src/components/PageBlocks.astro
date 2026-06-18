@@ -1,6 +1,7 @@
 ---
 import { marked } from "marked";
 import FeaturedBlock from "./FeaturedBlock.astro";
+import FormBlock from "./FormBlock.astro";
 const { blocks, links } = Astro.props;
 ---
 
@@ -75,6 +76,7 @@ const { blocks, links } = Astro.props;
                   )}
                   {b.title && <h3 class='underline'>{b.title}</h3>}
                   <div set:html={marked.parse(b.body)} />
+                  {b.form && <FormBlock formId={b.form} />}
                 </div>
               );
             case "featured":

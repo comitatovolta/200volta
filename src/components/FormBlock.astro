@@ -1,0 +1,23 @@
+---
+import { initForm } from "@formspree/ajax";
+
+const props = Astro.props;
+const { formId } = props;
+initForm({ formElement: "#form-patrocini", formId });
+---
+
+<div class='container my-5'>
+  <div class='row'>
+    <div data-fs-success>Thanks for your submission!</div>
+    <div data-fs-error>Oops! There was a problem submitting your form.</div>
+    <form id='form-patrocini'>
+      <label for='email'>Email:</label>
+      <input type='email' id='email' name='email' data-fs-field />
+      <span data-fs-error='email'></span>
+      <label for='message'>Message:</label>
+      <input type='text' id='message' name='message' data-fs-field />
+      <span data-fs-error='message'></span>
+      <button type='submit' data-fs-submit-btn>Submit</button>
+    </form>
+  </div>
+</div>
