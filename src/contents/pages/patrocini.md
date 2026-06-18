@@ -26,12 +26,12 @@ blocks:
     title: REGOLAMENTO LOGO
     link: REGOLAMENTO LOGO
     body: >-
-      #### REGOLAMENTO PER LA CONCESSIONE DEL PATROCINIO NON ONEROSO DEL
+      ##### REGOLAMENTO PER LA CONCESSIONE DEL PATROCINIO NON ONEROSO DEL
       “COMITATO NAZIONALE PER LA CELEBRAZIONE DEL BICENTENARIO DELLA MORTE DI
       ALESSANDRO VOLTA”
 
 
-      ##### Art. 1
+      ###### Art. 1
 
 
       * Il presente Regolamento disciplina i criteri e le modalità per la concessione del patrocinio non oneroso da parte del “Comitato nazionale per la celebrazione del bicentenario della morte di Alessandro Volta” (di seguito “Comitato”). 
@@ -41,7 +41,7 @@ blocks:
       * Il patrocinio non comporta l’erogazione di contributi economici o l’assunzione di obblighi di natura organizzativa da parte del “Comitato”. 
 
 
-      ##### Art. 2
+      ###### Art. 2
 
 
       * Il patrocinio può essere concesso a iniziative di carattere culturale, scientifico, sociale, educativo, o, in generale, coerenti con le finalità statutarie del “Comitato”. In particolare, devono avere un richiamo diretto ai valori, all’identità e al lascito della personalità di Alessandro Volta. 
@@ -53,7 +53,7 @@ blocks:
       * Le persone fisiche non possono richiedere il patrocinio. 
 
 
-      ##### Art. 3
+      ###### Art. 3
 
 
       * Il patrocinio consiste nell’autorizzazione all’utilizzo del logo e del nome del “Comitato” nei materiali di comunicazione dell’iniziativa, nella possibilità di menzionare il patrocinio in comunicati stampa, inviti, locandine, siti web e altri strumenti promozionali. 
@@ -61,13 +61,13 @@ blocks:
       * Il patrocinio non implica compartecipazione organizzativa, responsabilità del “Comitato” per l’organizzazione o lo svolgimento dell’evento, concessione di spazi, servizi o altre utilità. 
 
 
-      ##### Art. 4
+      ###### Art. 4
 
 
       * La richiesta di patrocinio deve essere presentata tramite la compilazione del modulo  nella sezione RICHIESTA PATROCINIO
 
 
-      ##### Art. 5
+      ###### Art. 5
 
 
       * Pervenuta la domanda di richiesta di patrocinio, questa viene inviata ai membri del Comitato Esecutivo del “Comitato” affinché possa essere deliberata la concessione o rifiutata la concessione del patrocinio nella prima riunione utile.
