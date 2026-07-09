@@ -71,7 +71,54 @@ blocks:
       ###### Art. 5
 
 
-      * Pervenuta la domanda di richiesta di patrocinio, questa viene inviata ai membri del Comitato Esecutivo del “Comitato” affinché possa essere deliberata la concessione o rifiutata la concessione del patrocinio nella prima riunione utile.
+      *  Pervenuta la domanda di richiesta di patrocinio, questa viene inviata ai membri del Comitato Esecutivo del “Comitato” affinché possa essere deliberata la concessione o rifiutata la concessione del patrocinio nella prima riunione utile.
+
+      * La concessione del patrocinio è valutata sulla base di criteri di coerenza con finalità statutarie, rilevanza sociale, culturale, qualità del progetto, chiarezza organizzativa, assenza di conflitti con l’immagine e i valori del “Comitato”; rispetto dei principi di legalità, inclusione, non discriminazione e sostenibilità.
+
+      * La valutazione è rimessa al Comitato Esecutivo del “Comitato”, il cui giudizio è insindacabile.
+
+      * In caso di motivata urgenza la concessione del patrocinio può essere rilasciata direttamente dal presidente del “Comitato”.
+
+
+
+
+      **Art. 6**
+
+
+      * La concessione del patrocinio è formalizzata dal Segretario Generale del “Comitato” mediante comunicazione scritta, ricordando gli impegni assunti nel presente regolamento.
+
+      * In caso di parere contrario il Presidente del “Comitato” scrive all’ ente richiedente il patrocinio dandone motivazione.
+
+      * Il logo del “Comitato” deve essere utilizzato esclusivamente nelle modalità descritte nel regolamento (in allegato).
+
+      * Laddove possibile è preferibile che un delegato del “Comitato” sia inviato all’evento patrocinato, magari portano i saluti del “Comitato nazionale per la celebrazione del bicentenario della morte di Alessandro Volta”.
+
+
+
+
+      **Art. 7**
+
+
+      * Il “Comitato” non assume alcuna responsabilità per contenuti, dichiarazioni o attività connesse all’iniziativa patrocinata.
+
+      * Il “Comitato” può revocare il patrocinio con provvedimento motivato qualora l’iniziativa venga modificata in modo sostanziale rispetto a quanto dichiarato, emergano elementi incompatibili con i principi del “Comitato” o si verifichi un uso non autorizzato del nome o del logo.
+
+      * In caso di revoca, il soggetto beneficiario è tenuto a rimuovere immediatamente ogni riferimento al patrocinio.
+
+
+
+
+      **Art. 9**
+
+
+      * Il presente Regolamento entra in vigore dalla data di approvazione da parte del Comitato Esecutivo del “Comitato”.
+
+      * Per quanto non espressamente previsto, si rinvia e alla normativa vigente del “Comitato”.
+
+      * Il Regolamento può essere modificato con deliberazione del Comitato Esecutivo del “Comitato”.
+
+
+      Per ogni informazione scrivere a: segreteria.comitatovolta2027@governo.it
   - type: section
     linked: true
     title: "ELENCO PATROCINI RILASCIATI  "
