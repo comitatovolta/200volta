@@ -21,7 +21,8 @@ export default function FormPatrocini({ formId }) {
     return (
       <div className="col-12">
         <div className="alert alert-success" role="alert">
-          <strong>Grazie!</strong> La tua richiesta di patrocinio è stata inviata con successo.
+          <strong>Grazie!</strong> La tua richiesta di patrocinio è stata
+          inviata con successo.
         </div>
       </div>
     );
@@ -30,6 +31,10 @@ export default function FormPatrocini({ formId }) {
   return (
     <div>
       <div class="row">
+        I campi contrassegnati con * sono obbligatori. Tutti i dati inseriti
+        saranno trattati in conformità alla normativa sulla privacy.
+      </div>
+      <div className="row mt-4">
         <form
           onSubmit={onSubmit}
           className={`needs-validation${validated ? " was-validated" : ""}`}
@@ -37,7 +42,6 @@ export default function FormPatrocini({ formId }) {
         >
           {/* SCHEDA PROGETTO */}
           <fieldset>
-
             <div className="row">
               <div className="form-group col-md-6">
                 <label className="active" htmlFor="titolo_progetto">
@@ -119,7 +123,7 @@ export default function FormPatrocini({ formId }) {
             <div className="row">
               <div className="form-group col-12">
                 <label className="active" htmlFor="immagine_url">
-                  URL immagine associata al progetto *
+                  URL immagine associata al progetto
                 </label>
                 <input
                   type="url"
@@ -127,7 +131,6 @@ export default function FormPatrocini({ formId }) {
                   id="immagine_url"
                   name="immagine_url"
                   placeholder="https://esempio.com/immagine.jpg"
-                  required
                 />
                 <small className="form-text text-muted">
                   Carica la tua immagine su un servizio di hosting (es. Imgur,
@@ -160,7 +163,9 @@ export default function FormPatrocini({ formId }) {
                 <div className="select-wrapper">
                   <label htmlFor="tipologia">Tipologia</label>
                   <select id="tipologia" name="tipologia">
-                    <option selected value="">Seleziona tipologia</option>
+                    <option selected value="">
+                      Seleziona tipologia
+                    </option>
                     <option value="convegno">Convegno</option>
                     <option value="didattica">Didattica</option>
                     <option value="mostra">Mostra</option>
@@ -352,7 +357,6 @@ export default function FormPatrocini({ formId }) {
                   className="form-control"
                   id="sitoweb"
                   name="sitoweb"
-                  placeholder="https://"
                 />
               </div>
             </div>
