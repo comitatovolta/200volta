@@ -80,8 +80,6 @@ blocks:
       * In caso di motivata urgenza la concessione del patrocinio può essere rilasciata direttamente dal presidente del “Comitato”.
 
 
-
-
       **Art. 6**
 
 
@@ -94,8 +92,6 @@ blocks:
       * Laddove possibile è preferibile che un delegato del “Comitato” sia inviato all’evento patrocinato, magari portano i saluti del “Comitato nazionale per la celebrazione del bicentenario della morte di Alessandro Volta”.
 
 
-
-
       **Art. 7**
 
 
@@ -104,8 +100,6 @@ blocks:
       * Il “Comitato” può revocare il patrocinio con provvedimento motivato qualora l’iniziativa venga modificata in modo sostanziale rispetto a quanto dichiarato, emergano elementi incompatibili con i principi del “Comitato” o si verifichi un uso non autorizzato del nome o del logo.
 
       * In caso di revoca, il soggetto beneficiario è tenuto a rimuovere immediatamente ogni riferimento al patrocinio.
-
-
 
 
       **Art. 9**
@@ -121,7 +115,7 @@ blocks:
       Per ogni informazione scrivere a: segreteria.comitatovolta2027@governo.it
   - type: section
     linked: true
-    title: "ELENCO PATROCINI RILASCIATI  "
+    title: ELENCO PATROCINI RILASCIATI
     link: ""
     body: " In corso di valutazione"
 ---
