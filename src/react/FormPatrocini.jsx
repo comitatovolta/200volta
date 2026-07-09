@@ -30,9 +30,11 @@ export default function FormPatrocini({ formId }) {
 
   return (
     <div>
-      <div class="row">
-        I campi contrassegnati con * sono obbligatori. Tutti i dati inseriti
-        saranno trattati in conformità alla normativa sulla privacy.
+      <div class="row my-5">
+        <small>
+          I campi contrassegnati con * sono obbligatori. Tutti i dati inseriti
+          saranno trattati in conformità alla normativa sulla privacy.
+        </small>
       </div>
       <div className="row mt-4">
         <form
