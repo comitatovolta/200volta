@@ -71,7 +71,7 @@ blocks:
       ###### Art. 5
 
 
-      *  Pervenuta la domanda di richiesta di patrocinio, questa viene inviata ai membri del Comitato Esecutivo del “Comitato” affinché possa essere deliberata la concessione o rifiutata la concessione del patrocinio nella prima riunione utile.
+      * Pervenuta la domanda di richiesta di patrocinio, questa viene inviata ai membri del Comitato Esecutivo del “Comitato” affinché possa essere deliberata la concessione o rifiutata la concessione del patrocinio nella prima riunione utile.
 
       * La concessione del patrocinio è valutata sulla base di criteri di coerenza con finalità statutarie, rilevanza sociale, culturale, qualità del progetto, chiarezza organizzativa, assenza di conflitti con l’immagine e i valori del “Comitato”; rispetto dei principi di legalità, inclusione, non discriminazione e sostenibilità.
 
@@ -102,7 +102,7 @@ blocks:
       * In caso di revoca, il soggetto beneficiario è tenuto a rimuovere immediatamente ogni riferimento al patrocinio.
 
 
-      **Art. 9**
+      **Art. 8**
 
 
       * Il presente Regolamento entra in vigore dalla data di approvazione da parte del Comitato Esecutivo del “Comitato”.
@@ -112,7 +112,70 @@ blocks:
       * Il Regolamento può essere modificato con deliberazione del Comitato Esecutivo del “Comitato”.
 
 
-      Per ogni informazione scrivere a: segreteria.comitatovolta2027@governo.it
+
+
+
+
+      **REGOLAMENTO PER L’UTILIZZO DEL LOGO DEL “COMITATO NAZIONALE PER LA CELEBRAZIONE DEL BICENTENARIO DELLA MORTE DI ALESSANDRO VOLTA”**
+
+
+
+
+      **Art. 1**
+
+
+      * Il presente Regolamento disciplina le modalità di utilizzo del nome e del logo del “Comitato nazionale per la celebrazione del bicentenario della morte di Alessandro Volta” (di seguito “Comitato”) da parte dei soggetti ai quali sia stato formalmente concesso il patrocinio non oneroso.
+
+      * L’uso del logo è consentito esclusivamente alle condizioni previste dal presente Regolamento e dalla comunicazione di concessione del patrocinio.
+
+
+
+
+      **Art. 2**
+
+
+      * L’autorizzazione all’utilizzo del logo è subordinata alla formale concessione del patrocinio non oneroso mediante comunicazione scritta.
+
+      * È vietato utilizzare il logo per attività diverse da quelle oggetto del patrocinio.
+
+
+
+
+      **Art. 3**
+
+
+      * Il logo deve essere utilizzato nella versione ufficiale fornita dal “Comitato”, senza alterazioni di forma, proporzioni, colori o elementi grafici.
+
+      * È vietato: modificare il logo o abbinarlo ad altri segni grafici in modo tale da alterarne l’identità, utilizzarlo in contesti che possano generare equivoci circa il ruolo del “Comitato”, impiegarlo per finalità commerciali, promozionali o pubblicitarie non coerenti con l’iniziativa patrocinata.
+
+      * Il logo deve essere accompagnato dalla dicitura:
+
+      * “Con il patrocinio del Comitato nazionale per la celebrazione del bicentenario della morte di Alessandro Volta”, salvo diversa indicazione scritta del “Comitato”.
+
+
+
+
+      **Art. 4**
+
+
+      * Il logo può essere utilizzato esclusivamente su locandine, manifesti, brochure e inviti, siti internet e pagine social dedicati all’iniziativa, comunicati stampa e materiali informativi relativi all’evento.
+
+      * Il “Comitato” può richiedere l’invio preventivo delle bozze dei materiali contenenti il logo per verifica della corretta applicazione.
+
+      * L’eventuale utilizzo su gadget o materiali promozionali è consentito solo previa autorizzazione espressa e scritta.
+
+
+
+
+      **Art. 5**
+
+
+      * Il soggetto autorizzato è responsabile del corretto utilizzo del logo e della tutela dell’immagine del “Comitato”.
+
+
+
+
+      **Per ogni informazione scrivere a: segreteria.comitatovolta2027@governo.it**
   - type: section
     linked: true
     title: ELENCO PATROCINI RILASCIATI
