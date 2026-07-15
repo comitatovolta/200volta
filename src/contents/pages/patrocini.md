@@ -27,12 +27,17 @@ blocks:
     title: REGOLAMENTO LOGO
     link: regolamento-logo
     body: >-
-      ##### REGOLAMENTO PER LA CONCESSIONE DEL PATROCINIO NON ONEROSO DEL
+      > ## REGOLAMENTO PER LA CONCESSIONE DEL PATROCINIO NON ONEROSO DEL
       “COMITATO NAZIONALE PER LA CELEBRAZIONE DEL BICENTENARIO DELLA MORTE DI
       ALESSANDRO VOLTA”
 
+      >
 
-      ###### Art. 1
+      >
+
+      >
+
+      > ###### Art. 1
 
 
       * Il presente Regolamento disciplina i criteri e le modalità per la concessione del patrocinio non oneroso da parte del “Comitato nazionale per la celebrazione del bicentenario della morte di Alessandro Volta” (di seguito “Comitato”). 
@@ -116,7 +121,9 @@ blocks:
 
 
 
-      **REGOLAMENTO PER L’UTILIZZO DEL LOGO DEL “COMITATO NAZIONALE PER LA CELEBRAZIONE DEL BICENTENARIO DELLA MORTE DI ALESSANDRO VOLTA”**
+
+
+      ## **REGOLAMENTO PER L’UTILIZZO DEL LOGO DEL “COMITATO NAZIONALE PER LA CELEBRAZIONE DEL BICENTENARIO DELLA MORTE DI ALESSANDRO VOLTA”**
 
 
 
