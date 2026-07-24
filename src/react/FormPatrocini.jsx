@@ -7,6 +7,16 @@ export default function FormPatrocini({ formId }) {
 
   const onSubmit = (e) => {
     const form = e.target;
+
+    // Normalizza i campi URL: se l'utente non ha scritto il protocollo
+    // (es. "www.premiere.it") aggiunge "https://" così il campo è valido.
+    form.querySelectorAll('input[type="url"]').forEach((input) => {
+      const value = input.value.trim();
+      if (value && !/^https?:\/\//i.test(value)) {
+        input.value = `https://${value}`;
+      }
+    });
+
     if (!form.checkValidity()) {
       e.preventDefault();
       e.stopPropagation();
@@ -359,7 +369,12 @@ export default function FormPatrocini({ formId }) {
                   className="form-control"
                   id="sitoweb"
                   name="sitoweb"
+                  placeholder="www.esempio.it"
                 />
+                <div className="invalid-feedback">
+                  Inserisci un indirizzo web valido.
+                </div>
+                <ValidationError field="sitoweb" errors={state.errors} />
               </div>
             </div>
           </fieldset>
