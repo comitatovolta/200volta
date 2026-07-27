@@ -75,7 +75,9 @@ export default function FormPatrocini({ formId }) {
                 />
               </div>
               <div className="form-group col-md-6">
-                <label htmlFor="sede_progetto">Sede del progetto</label>
+                <label className="active" htmlFor="sede_progetto">
+                  Sede del progetto
+                </label>
                 <input
                   type="text"
                   className="form-control"
@@ -163,7 +165,9 @@ export default function FormPatrocini({ formId }) {
 
             <div className="row">
               <div className="form-group col-md-6">
-                <label htmlFor="pubblicazioni">Pubblicazioni previste</label>
+                <label className="active" htmlFor="pubblicazioni">
+                  Pubblicazioni previste
+                </label>
                 <input
                   type="text"
                   className="form-control"
@@ -335,7 +339,9 @@ export default function FormPatrocini({ formId }) {
                 />
               </div>
               <div className="form-group col-md-6">
-                <label htmlFor="partner">Partner</label>
+                <label className="active" htmlFor="partner">
+                  Partner
+                </label>
                 <input
                   type="text"
                   className="form-control"
@@ -363,7 +369,9 @@ export default function FormPatrocini({ formId }) {
                 <ValidationError field="email_progetto" errors={state.errors} />
               </div>
               <div className="form-group col-md-6">
-                <label htmlFor="sitoweb">Sito web</label>
+                <label className="active" htmlFor="sitoweb">
+                  Sito web
+                </label>
                 <input
                   type="url"
                   className="form-control"
