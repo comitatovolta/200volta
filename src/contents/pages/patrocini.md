@@ -179,4 +179,11 @@ blocks:
         **Convegno "Giornate dell'Elettrochimica Italiana 2026", 14-18 settembre 2026**
 
         Data concessione: 3 ago 2026
+
+
+      * #### ***Digital Innovation Forum 2026***
+
+      * **Convegno “L’Europa del Fare Innovazione”, 14-16 ottobre 2026 -** Premio Volta all’interno del Digital Innovation Awards
+
+      * Data concessione: 31 ago 2026
 ---
