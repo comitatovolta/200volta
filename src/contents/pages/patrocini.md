@@ -168,7 +168,7 @@ blocks:
     body: >-
       * ### ***Teatro Sociale di Como, AsLiCo***
 
-        **Programma Stagione Teatrale "VOLT" 26/27, intitolato ad Alessandro Volta**
+        **Programma Stagione Teatrale 26/27 "VOLT, non esiste progresso senza curiosità", intitolato ad Alessandro Volta**
 
         Data concessione: 28 mag 2026
 ---
