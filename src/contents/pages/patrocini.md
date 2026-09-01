@@ -166,7 +166,7 @@ blocks:
     title: ELENCO PATROCINI RILASCIATI
     link: ""
     body: >-
-      * ### ***Teatro Sociale di Como, AsLiCo***
+      * #### ***Teatro Sociale di Como, AsLiCo***
 
         **Programma Stagione Teatrale 26/27 "VOLT, non esiste progresso senza curiosità", intitolato ad Alessandro Volta**
 
