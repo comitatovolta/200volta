@@ -165,5 +165,10 @@ blocks:
     linked: true
     title: ELENCO PATROCINI RILASCIATI
     link: ""
-    body: " In corso di valutazione"
+    body: >-
+      * ### ***Teatro Sociale di Como, AsLiCo***
+
+        **Programma Stagione Teatrale "VOLT" 26/27, intitolato ad Alessandro Volta**
+
+        Data concessione: 28 mag 2026
 ---
