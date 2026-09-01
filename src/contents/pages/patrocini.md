@@ -20,7 +20,7 @@ blocks:
     linked: true
     title: RICHIESTA PATROCINIO NON ONEROSO
     link: richiesta-patrocinio
-    body: "#### Modulo di richiesta patrocinio non oneroso"
+    body: "#### Modulo di richiesta patrocinio"
     form: xaqzrwrk
   - type: section
     linked: true
