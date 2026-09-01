@@ -9,7 +9,7 @@ blocks:
     body: >-
       Le richieste di patrocinio devono essere inviate al Comitato
       esclusivamente tramite la compilazione del modulo online disponibile nella
-      sezione di [RICHIESTA PATROCINIO](#richiesta-patrocinio) 
+      sezione di [RICHIESTA PATROCINIO](#richiesta-patrocinio) NON ONEROSO
 
 
       In caso di esito positivo, l’approvazione sarà comunicata all’indirizzo email indicato nella richiesta.
@@ -18,7 +18,7 @@ blocks:
       Si invita a consultare attentamente il Regolamento per l’utilizzo del logo.
   - type: section
     linked: true
-    title: RICHIESTA PATROCINIO
+    title: RICHIESTA PATROCINIO NON ONEROSO
     link: richiesta-patrocinio
     body: "#### Modulo di richiesta patrocinio non oneroso"
     form: xaqzrwrk
@@ -30,10 +30,6 @@ blocks:
       > ## REGOLAMENTO PER LA CONCESSIONE DEL PATROCINIO NON ONEROSO DEL
       “COMITATO NAZIONALE PER LA CELEBRAZIONE DEL BICENTENARIO DELLA MORTE DI
       ALESSANDRO VOLTA”
-
-      >
-
-      >
 
       >
 
@@ -70,7 +66,7 @@ blocks:
       ###### Art. 4
 
 
-      * La richiesta di patrocinio deve essere presentata tramite la compilazione del modulo  nella sezione [RICHIESTA PATROCINIO](#richiesta-patrocinio)
+      * La richiesta di patrocinio deve essere presentata tramite la compilazione del modulo  nella sezione [RICHIESTA PATROCINIO NON ONEROSO](#richiesta-patrocinio)
 
 
       ###### Art. 5
@@ -117,17 +113,7 @@ blocks:
       * Il Regolamento può essere modificato con deliberazione del Comitato Esecutivo del “Comitato”.
 
 
-
-
-
-
-
-
-
-
       ## **REGOLAMENTO PER L’UTILIZZO DEL LOGO DEL “COMITATO NAZIONALE PER LA CELEBRAZIONE DEL BICENTENARIO DELLA MORTE DI ALESSANDRO VOLTA”**
-
-
 
 
       **Art. 1**
@@ -138,16 +124,12 @@ blocks:
       * L’uso del logo è consentito esclusivamente alle condizioni previste dal presente Regolamento e dalla comunicazione di concessione del patrocinio.
 
 
-
-
       **Art. 2**
 
 
       * L’autorizzazione all’utilizzo del logo è subordinata alla formale concessione del patrocinio non oneroso mediante comunicazione scritta.
 
       * È vietato utilizzare il logo per attività diverse da quelle oggetto del patrocinio.
-
-
 
 
       **Art. 3**
@@ -162,8 +144,6 @@ blocks:
       * “Con il patrocinio del Comitato nazionale per la celebrazione del bicentenario della morte di Alessandro Volta”, salvo diversa indicazione scritta del “Comitato”.
 
 
-
-
       **Art. 4**
 
 
@@ -174,14 +154,10 @@ blocks:
       * L’eventuale utilizzo su gadget o materiali promozionali è consentito solo previa autorizzazione espressa e scritta.
 
 
-
-
       **Art. 5**
 
 
       * Il soggetto autorizzato è responsabile del corretto utilizzo del logo e della tutela dell’immagine del “Comitato”.
-
-
 
 
       **Per ogni informazione scrivere a: segreteria.comitatovolta2027@governo.it**
