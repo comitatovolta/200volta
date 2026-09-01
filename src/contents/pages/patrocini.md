@@ -171,4 +171,12 @@ blocks:
         **Programma Stagione Teatrale 26/27 "VOLT, non esiste progresso senza curiosità", intitolato ad Alessandro Volta**
 
         Data concessione: 28 mag 2026
+
+
+
+      * #### ***Istituto Lombardo -*** Accademia di Scienze e Lettere
+
+        **Convegno "Giornate dell'Elettrochimica Italiana 2026", 14-18 settembre 2026**
+
+        Data concessione: 3 ago 2026
 ---
