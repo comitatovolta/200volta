@@ -173,6 +173,13 @@ blocks:
         Data concessione: 28 mag 2026
 
 
+      * #### ***Future Week APS***
+
+        **Evento "Rome Future Week 2026"**
+
+        Data concessione: 1 giu 2026
+
+
       * #### ***Istituto Lombardo -** Accademia di Scienze e Lettere*
 
         **Convegno "Giornate dell'Elettrochimica Italiana 2026", 14-18 settembre 2026**
