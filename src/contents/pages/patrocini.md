@@ -187,9 +187,9 @@ blocks:
         Data concessione: 3 ago 2026
 
 
-      * #### ***Digital Innovation Forum 2026***
+      * #### ***Fondazione Innovazione Digitale***
 
-        **Convegno “L’Europa del Fare Innovazione”, 14-16 ottobre 2026 -** Premio Volta all’interno del Digital Innovation Awards
+        **Convegno Digital Innovation Forum “L’Europa del Fare Innovazione”, 14-16 ottobre 2026 -** Premio Volta
 
         Data concessione: 31 ago 2026
 ---
