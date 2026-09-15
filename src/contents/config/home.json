@@ -19,7 +19,7 @@
     "show": true,
     "link": {
       "label": "PARLACI DELLA TUA IDEA",
-      "external": true,
+      "external": false,
       "url": "mailto:segreteria.comitatovolta2027@governo.it?subject=Proposte-Suggerimenti&body=Scrivi qui la tua idea..."
     }
   },
