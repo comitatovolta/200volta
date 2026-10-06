@@ -2,8 +2,7 @@
 image:
   alt: thumb
   url: /assets/ok-immagine-quantum-2026.jpg
-title: Quantum per l'Italia. Inaugurazione di Volta B1 e sviluppo delle
-  tecnologie quantistiche
+title: Quantum per l'Italia. Inaugurazione di Volta B1
 description: Quantum per l'Italia è il convegno promosso dal Comitato Nazionale
   per la Celebrazione del Bicentenario della Morte di Alessandro Volta in
   occasione dell'inaugurazione di Volta B1, il primo computer quantistico D-Wave
@@ -13,7 +12,7 @@ description: Quantum per l'Italia è il convegno promosso dal Comitato Nazionale
   L'incontro mette in dialogo istituzioni, università e imprese sulle
   applicazioni concrete del calcolo quantistico e annuncia la nascita del Centro
   Nazionale Volta.
-from: 2026-10-16T12:00:00.000+02:00
+from: 2026-10-16T00:00:00.000+02:00
 location: Villa Saporiti - Como
 tags:
   - events
