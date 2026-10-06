@@ -12,7 +12,7 @@ description: Quantum per l'Italia è il convegno promosso dal Comitato Nazionale
   L'incontro mette in dialogo istituzioni, università e imprese sulle
   applicazioni concrete del calcolo quantistico e annuncia la nascita del Centro
   Nazionale Volta.
-from: 2026-10-16T00:00:00.000+02:00
+from: 2026-10-16T12:00:00.000+02:00
 location: Villa Saporiti - Como
 tags:
   - events
