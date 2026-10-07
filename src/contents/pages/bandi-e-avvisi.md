@@ -47,6 +47,8 @@ blocks:
       No. Una singola persona fisica non può presentare domanda di finanziamento in qualità di soggetto proponente. Ai sensi dell'articolo 2, comma 1, lett. c) dell'Avviso pubblico, la fattispecie dei “*soggetti privati, senza finalità di lucro, anche non dotati di personalità giuridica*” fa riferimento esclusivo a organismi ed enti collettivi organizzati, ancorché privi di personalità. Tale perimetro è chiarito dalla norma stessa tramite l'elencazione esemplificativa. Inoltre, la necessità che il proponente sia un'organizzazione strutturata e giuridicamente identificabile discende, a pena di inammissibilità ed esclusione, dal quadro complessivo delle condizioni e della documentazione imposte dall'Avviso.
 
 
+
+
       21/09/2026
 
 
@@ -69,9 +71,11 @@ blocks:
       2. Si. Consorzi interuniversitari costituiti per lo svolgimento e il coordinamento di attività di ricerca scientifica e alta formazione sono ammissibili a presentare domanda:
 
 
-      - Qualora abbiano natura di enti di diritto pubblico o siano partecipati esclusivamente da università ed enti pubblici per l'esercizio di funzioni istituzionali di ricerca non economica, essi sono ascrivibili alla fattispecie di cui all’art. 2, comma 1, lett. a) ("Enti Pubblici non economici");
+      * Qualora abbiano natura di enti di diritto pubblico o siano partecipati esclusivamente da università ed enti pubblici per l'esercizio di funzioni istituzionali di ricerca non economica, essi sono ascrivibili alla fattispecie di cui all’art. 2, comma 1, lett. a) ("Enti Pubblici non economici");
 
-      - Laddove il consorzio operi con personalità giuridica di diritto privato senza scopo di lucro, esso risulta in ogni caso ammissibile ai sensi dell’art. 2, comma 1, lett. c) ("Soggetti privati, senza finalità di lucro, anche non dotati di personalità giuridica..."), purché persegua da statuto finalità scientifiche, culturali o formative coerenti con gli obiettivi dell'Avviso pubblico.
+      * Laddove il consorzio operi con personalità giuridica di diritto privato senza scopo di lucro, esso risulta in ogni caso ammissibile ai sensi dell’art. 2, comma 1, lett. c) ("Soggetti privati, senza finalità di lucro, anche non dotati di personalità giuridica..."), purché persegua da statuto finalità scientifiche, culturali o formative coerenti con gli obiettivi dell'Avviso pubblico.
+
+
 
 
       28/09/2026
@@ -93,7 +97,9 @@ blocks:
 
       1. No. Le attività previste all'interno di ciascun progetto non possono essere disgiunte o indipendenti tra loro, ma devono essere integrate in una proposta organica e coerente. Come stabilito dall'art. 4, comma 2, lett. a), dell’Avviso la domanda deve essere corredata da una *«Relazione illustrativa, che rappresenti in modo organico e completo i contenuti e gli obiettivi del progetto, le diverse attività e/o fasi progettuali, l'attinenza alle tematiche individuate dal presente Avviso»*. Inoltre, i criteri di valutazione di cui all'art. 5 premiano esplicitamente la coerenza metodologica, l'organicità del piano esecutivo e la sinergia delle iniziative rispetto alle finalità celebrative di Alessandro Volta e dell'ambito prescelto (Linea A o B). Non è pertanto ammissibile una mera aggregazione di eventi o iniziative eterogenee prive di un filo conduttore unitario e di una visione progettuale condivisa. Inoltre, il Cronoprogramma e il Piano economico devono delineare una precisa concatenazione e coerenza logico-temporale ed economica fra le diverse fasi e voci di spesa (Art. 4, comma 2, lett. b, c).
 
-      2. Si. La garanzia fideiussoria è necessaria e vincolante unicamente ai fini della liquidazione dell'anticipazione del 60% del finanziamento concesso. L'art. 6, comma 4 dell'Avviso stabilisce che l'anticipo nella misura massima del 60% viene liquidato “*su espressa richiesta del beneficiario [...] previa verifica della regolarità della garanzia fidejussoria di cui al comma 1, lettera b)*”. Il medesimo comma 4, unitamente al comma 6, chiarisce espressamente che, qualora il soggetto beneficiario scelga di non richiedere alcuna anticipazione, l'intero importo del contributo sarà erogato in un'unica soluzione a titolo di saldo al termine del progetto, previa positiva valutazione della rendicontazione finale delle spese. In quest'ultimo caso (liquidazione solo a saldo), la trasmissione della fideiussione non è dovuta. Sebbene l'Art. 6, comma 1, lett. b elenchi la fideiussione tra i documenti da trasmettere entro 30 giorni dalla graduatoria, la disposizione opera a presidio dell'eventuale anticipazione finanziaria richiesta: in caso di liquidazione a saldo unico post-rendicontazione, venendo meno il rischio di erogazione anticipata di fondi pubblici, la cauzione fideiussoria non trova applicazione.
+      2. Si. La garanzia fideiussoria è necessaria e vincolante unicamente ai fini della liquidazione dell'anticipazione del 60% del finanziamento concesso. L'art. 6, comma 4 dell'Avviso stabilisce che l'anticipo nella misura massima del 60% viene liquidato “*su espressa richiesta del beneficiario \[...] previa verifica della regolarità della garanzia fidejussoria di cui al comma 1, lettera b)*”. Il medesimo comma 4, unitamente al comma 6, chiarisce espressamente che, qualora il soggetto beneficiario scelga di non richiedere alcuna anticipazione, l'intero importo del contributo sarà erogato in un'unica soluzione a titolo di saldo al termine del progetto, previa positiva valutazione della rendicontazione finale delle spese. In quest'ultimo caso (liquidazione solo a saldo), la trasmissione della fideiussione non è dovuta. Sebbene l'Art. 6, comma 1, lett. b elenchi la fideiussione tra i documenti da trasmettere entro 30 giorni dalla graduatoria, la disposizione opera a presidio dell'eventuale anticipazione finanziaria richiesta: in caso di liquidazione a saldo unico post-rendicontazione, venendo meno il rischio di erogazione anticipata di fondi pubblici, la cauzione fideiussoria non trova applicazione.
+
+
 
 
       30/09/2026
@@ -121,8 +127,8 @@ blocks:
       2. Occorre distinguere tra la figura del partner formale di progetto e quella del soggetto terzo collaboratore o aderente a mero titolo di supporto logistico/patrocinio:
 
 
-      - Partner operativi formalmente associati al progetto (art. 4, comma 1, lett. f) e indicati nel modello di istanza devono produrre la documentazione richiesta dall'Avviso (Statuto, DURC ove applicabile, dichiarazioni antimafia e accordo di partenariato).
+      * Partner operativi formalmente associati al progetto (art. 4, comma 1, lett. f) e indicati nel modello di istanza devono produrre la documentazione richiesta dall'Avviso (Statuto, DURC ove applicabile, dichiarazioni antimafia e accordo di partenariato).
 
-      - I soggetti (pubblici o privati) che offrono una mera collaborazione logistica non onerosa, senza gestire quote di spesa, senza conferire co-finanziamento e senza assumere obblighi contrattuali di partenariato formale, non sono tenuti alla produzione della documentazione amministrativa completa (Statuto, DURC e dichiarazione antimafia).
+      * I soggetti (pubblici o privati) che offrono una mera collaborazione logistica non onerosa, senza gestire quote di spesa, senza conferire co-finanziamento e senza assumere obblighi contrattuali di partenariato formale, non sono tenuti alla produzione della documentazione amministrativa completa (Statuto, DURC e dichiarazione antimafia).
 ---
 In questa sezione sono pubblicati i bandi, gli avvisi e le comunicazioni ufficiali del Comitato relativi alle attività e alle iniziative legate alle celebrazioni.[](/assets/decreto_nomina_comitato-volta-signed.pdf)
