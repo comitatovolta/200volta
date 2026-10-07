@@ -32,7 +32,7 @@ blocks:
     linked: false
     title: FAQ
     body: >-
-      19/09/2026
+      *19/09/2026*
 
 
       #### Domanda N. 1
@@ -47,7 +47,7 @@ blocks:
       No. Una singola persona fisica non può presentare domanda di finanziamento in qualità di soggetto proponente. Ai sensi dell'articolo 2, comma 1, lett. c) dell'Avviso pubblico, la fattispecie dei “*soggetti privati, senza finalità di lucro, anche non dotati di personalità giuridica*” fa riferimento esclusivo a organismi ed enti collettivi organizzati, ancorché privi di personalità. Tale perimetro è chiarito dalla norma stessa tramite l'elencazione esemplificativa. Inoltre, la necessità che il proponente sia un'organizzazione strutturata e giuridicamente identificabile discende, a pena di inammissibilità ed esclusione, dal quadro complessivo delle condizioni e della documentazione imposte dall'Avviso.
 
 
-      21/09/2026
+      *21/09/2026*
 
 
       #### Domanda N. 2
@@ -74,7 +74,7 @@ blocks:
       * Laddove il consorzio operi con personalità giuridica di diritto privato senza scopo di lucro, esso risulta in ogni caso ammissibile ai sensi dell’art. 2, comma 1, lett. c) ("Soggetti privati, senza finalità di lucro, anche non dotati di personalità giuridica..."), purché persegua da statuto finalità scientifiche, culturali o formative coerenti con gli obiettivi dell'Avviso pubblico.
 
 
-      28/09/2026
+      *28/09/2026*
 
 
       #### Domanda N. 3
@@ -96,7 +96,7 @@ blocks:
       2. Si. La garanzia fideiussoria è necessaria e vincolante unicamente ai fini della liquidazione dell'anticipazione del 60% del finanziamento concesso. L'art. 6, comma 4 dell'Avviso stabilisce che l'anticipo nella misura massima del 60% viene liquidato “*su espressa richiesta del beneficiario \[...] previa verifica della regolarità della garanzia fidejussoria di cui al comma 1, lettera b)*”. Il medesimo comma 4, unitamente al comma 6, chiarisce espressamente che, qualora il soggetto beneficiario scelga di non richiedere alcuna anticipazione, l'intero importo del contributo sarà erogato in un'unica soluzione a titolo di saldo al termine del progetto, previa positiva valutazione della rendicontazione finale delle spese. In quest'ultimo caso (liquidazione solo a saldo), la trasmissione della fideiussione non è dovuta. Sebbene l'Art. 6, comma 1, lett. b elenchi la fideiussione tra i documenti da trasmettere entro 30 giorni dalla graduatoria, la disposizione opera a presidio dell'eventuale anticipazione finanziaria richiesta: in caso di liquidazione a saldo unico post-rendicontazione, venendo meno il rischio di erogazione anticipata di fondi pubblici, la cauzione fideiussoria non trova applicazione.
 
 
-      30/09/2026
+      *30/09/2026*
 
 
       #### Domanda N. 4
