@@ -184,6 +184,7 @@ blocks:
 
 
 
+
       *01.10.26* 
 
 
@@ -241,6 +242,8 @@ blocks:
 
 
 
+
+
       *01.10.26* 
 
 
@@ -267,6 +270,8 @@ blocks:
 
 
 
+
+
       *02/10/2026* 
 
 
@@ -280,6 +285,8 @@ blocks:
 
 
       Il limite si intende riferito all'intero Ateneo. Il soggetto giuridico proponente di cui all’art. 2, comma 1, lett. a) è l'Università nella sua unitarietà (dotata di personalità giuridica e codice fiscale), rappresentata legalmente dal Rettore (art. 4, comma 1). Ai sensi dell'art. 1, comma 2 e dell'art. 3, comma 3 dell'Avviso, ciascun ente può presentare una sola proposta progettuale (a valere sulla Linea A o sulla Linea B). Qualora pervengano più candidature riferite al medesimo Ateneo (anche se provenienti da Dipartimenti diversi), sarà presa in esame esclusivamente la prima istanza pervenuta in ordine cronologico, escludendo le successive. 
+
+
 
 
 
@@ -338,6 +345,7 @@ blocks:
 
 
       2. Il Modulo Allegato 4 serve unicamente per attestare l'assenza dell'obbligo contributivo (es. enti o associazioni senza posizioni aperte e che non corrispondono compensi soggetti a contribuzione). Non attesta l'assenza di irregolarità, bensì l'inesistenza stessa del presupposto previdenziale. La dichiarazione riguarda la posizione giuridico-contributiva complessiva del soggetto richiedente, non il solo personale di progetto. L'ente che ha dipendenti e posizioni INPS/INAIL attive deve produrre direttamente la copia del DURC in corso di validità attestante la propria regolarità. In tal caso, l'Allegato 4 può essere prodotto indicando gli estremi identificativi delle posizioni attive (matricola INPS e codice INAIL) a corredo del DURC allegato. 
+
 
 
 
