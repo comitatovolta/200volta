@@ -47,6 +47,8 @@ blocks:
       No. Una singola persona fisica non può presentare domanda di finanziamento in qualità di soggetto proponente. Ai sensi dell'articolo 2, comma 1, lett. c) dell'Avviso pubblico, la fattispecie dei “*soggetti privati, senza finalità di lucro, anche non dotati di personalità giuridica*” fa riferimento esclusivo a organismi ed enti collettivi organizzati, ancorché privi di personalità. Tale perimetro è chiarito dalla norma stessa tramite l'elencazione esemplificativa. Inoltre, la necessità che il proponente sia un'organizzazione strutturata e giuridicamente identificabile discende, a pena di inammissibilità ed esclusione, dal quadro complessivo delle condizioni e della documentazione imposte dall'Avviso.
 
 
+
+
       *21/09/2026*
 
 
@@ -74,6 +76,8 @@ blocks:
       * Laddove il consorzio operi con personalità giuridica di diritto privato senza scopo di lucro, esso risulta in ogni caso ammissibile ai sensi dell’art. 2, comma 1, lett. c) ("Soggetti privati, senza finalità di lucro, anche non dotati di personalità giuridica..."), purché persegua da statuto finalità scientifiche, culturali o formative coerenti con gli obiettivi dell'Avviso pubblico.
 
 
+
+
       *28/09/2026*
 
 
@@ -94,6 +98,10 @@ blocks:
       1. No. Le attività previste all'interno di ciascun progetto non possono essere disgiunte o indipendenti tra loro, ma devono essere integrate in una proposta organica e coerente. Come stabilito dall'art. 4, comma 2, lett. a), dell’Avviso la domanda deve essere corredata da una *«Relazione illustrativa, che rappresenti in modo organico e completo i contenuti e gli obiettivi del progetto, le diverse attività e/o fasi progettuali, l'attinenza alle tematiche individuate dal presente Avviso»*. Inoltre, i criteri di valutazione di cui all'art. 5 premiano esplicitamente la coerenza metodologica, l'organicità del piano esecutivo e la sinergia delle iniziative rispetto alle finalità celebrative di Alessandro Volta e dell'ambito prescelto (Linea A o B). Non è pertanto ammissibile una mera aggregazione di eventi o iniziative eterogenee prive di un filo conduttore unitario e di una visione progettuale condivisa. Inoltre, il Cronoprogramma e il Piano economico devono delineare una precisa concatenazione e coerenza logico-temporale ed economica fra le diverse fasi e voci di spesa (Art. 4, comma 2, lett. b, c).
 
       2. Si. La garanzia fideiussoria è necessaria e vincolante unicamente ai fini della liquidazione dell'anticipazione del 60% del finanziamento concesso. L'art. 6, comma 4 dell'Avviso stabilisce che l'anticipo nella misura massima del 60% viene liquidato “*su espressa richiesta del beneficiario \[...] previa verifica della regolarità della garanzia fidejussoria di cui al comma 1, lettera b)*”. Il medesimo comma 4, unitamente al comma 6, chiarisce espressamente che, qualora il soggetto beneficiario scelga di non richiedere alcuna anticipazione, l'intero importo del contributo sarà erogato in un'unica soluzione a titolo di saldo al termine del progetto, previa positiva valutazione della rendicontazione finale delle spese. In quest'ultimo caso (liquidazione solo a saldo), la trasmissione della fideiussione non è dovuta. Sebbene l'Art. 6, comma 1, lett. b elenchi la fideiussione tra i documenti da trasmettere entro 30 giorni dalla graduatoria, la disposizione opera a presidio dell'eventuale anticipazione finanziaria richiesta: in caso di liquidazione a saldo unico post-rendicontazione, venendo meno il rischio di erogazione anticipata di fondi pubblici, la cauzione fideiussoria non trova applicazione.
+
+
+
+
 
 
       *30/09/2026*
@@ -124,6 +132,8 @@ blocks:
       * Partner operativi formalmente associati al progetto (art. 4, comma 1, lett. f) e indicati nel modello di istanza devono produrre la documentazione richiesta dall'Avviso (Statuto, DURC ove applicabile, dichiarazioni antimafia e accordo di partenariato).
 
       * I soggetti (pubblici o privati) che offrono una mera collaborazione logistica non onerosa, senza gestire quote di spesa, senza conferire co-finanziamento e senza assumere obblighi contrattuali di partenariato formale, non sono tenuti alla produzione della documentazione amministrativa completa (Statuto, DURC e dichiarazione antimafia).
+
+
 
 
       *02/10/2026*
@@ -242,8 +252,6 @@ blocks:
 
 
 
-
-
       *01.10.26* 
 
 
@@ -270,8 +278,6 @@ blocks:
 
 
 
-
-
       *02/10/2026* 
 
 
@@ -285,8 +291,6 @@ blocks:
 
 
       Il limite si intende riferito all'intero Ateneo. Il soggetto giuridico proponente di cui all’art. 2, comma 1, lett. a) è l'Università nella sua unitarietà (dotata di personalità giuridica e codice fiscale), rappresentata legalmente dal Rettore (art. 4, comma 1). Ai sensi dell'art. 1, comma 2 e dell'art. 3, comma 3 dell'Avviso, ciascun ente può presentare una sola proposta progettuale (a valere sulla Linea A o sulla Linea B). Qualora pervengano più candidature riferite al medesimo Ateneo (anche se provenienti da Dipartimenti diversi), sarà presa in esame esclusivamente la prima istanza pervenuta in ordine cronologico, escludendo le successive. 
-
-
 
 
 
@@ -365,6 +369,7 @@ blocks:
 
 
 
+
       *07/10/2026* 
 
 
@@ -399,6 +404,7 @@ blocks:
 
 
       4. Le due figure non coincidono necessariamente. Un soggetto può figurare unicamente come partner operativo (collaborazione alle attività senza apporto di fondi), esclusivamente come co-finanziatore (apporto economico senza gestione di attività), oppure rivestire entrambi i ruoli. Tutti i soggetti coinvolti devono essere elencati nell'apposita sezione dell'Allegato 1 (art. 4, comma 1, lett. f), specificando con chiarezza per ciascuno la natura del ruolo e l'eventuale quota finanziaria garantita. 
+
 
 
 
@@ -438,9 +444,9 @@ blocks:
       4. Si conferma che la fideiussione è dovuta esclusivamente in caso di richiesta di anticipazione del 60% (art. 6, comma 4). In caso di partenariato, la garanzia deve essere rilasciata e presentata esclusivamente dal soggetto capofila/beneficiario per l'intero importo dell'anticipo richiesto, in quanto unico titolare del rapporto di concessione con l'Amministrazione (art. 6, comma 1, lett. b). 
 
 
-      #### 
 
-      Domanda 15
+
+      #### Domanda 15
 
 
       Esiste un format predefinito per la lettera di impegno e per l'accordo di collaborazione? È possibile predisporre schemi autonomi?   
@@ -456,6 +462,7 @@ blocks:
 
 
       \- Il contributo è liquidato unicamente al capofila (beneficiario unico) e non può essere frazionato o redistribuito ai partner. Ogni spesa deve transitare dal conto dedicato del capofila ed essere giustificata da regolari titoli di spesa/fatture a esso intestate, salvo l'apporto di cofinanziamento con personale rendicontato.
+
 
 
 
@@ -492,6 +499,8 @@ blocks:
       *08/10/2026* 
 
 
+
+
       #### Domanda 17
 
 
@@ -505,6 +514,8 @@ blocks:
 
 
       *08/10/2026* 
+
+
 
 
       #### Domanda 18
