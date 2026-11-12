@@ -172,24 +172,31 @@ blocks:
 
         Data concessione: 28 mag 2026
 
-
+        \-
       * #### ***Future Week APS***
 
         **Evento "Rome Future Week 2026"**
 
         Data concessione: 1 giu 2026
 
-
+        \-
       * #### ***Istituto Lombardo -** Accademia di Scienze e Lettere*
 
         **Convegno "Giornate dell'Elettrochimica Italiana 2026", 14-18 settembre 2026**
 
         Data concessione: 3 ago 2026
 
-
+        \-
       * #### ***Fondazione Innovazione Digitale***
 
         **Convegno Digital Innovation Forum “L’Europa del Fare Innovazione”, 14-16 ottobre 2026 -** Premio Volta
 
         Data concessione: 31 ago 2026
+
+        \-
+      * #### *Le Dimore del Quartetto*
+
+        **Spettacolo "Musica e Energia nel Segno di Volta", 7 ottobre - 11 novembre - 2 dicembre 2026** 
+
+        Data concessione: 12 nov 2026
 ---
