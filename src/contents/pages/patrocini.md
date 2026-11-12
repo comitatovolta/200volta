@@ -196,7 +196,7 @@ blocks:
         \-
       * #### *Le Dimore del Quartetto*
 
-        **Spettacolo "Musica e Energia nel Segno di Volta", 7 ottobre - 11 novembre - 2 dicembre 2026** 
+        **Rassegna "Musica e Energia nel Segno di Volta" 2026** 
 
         Data concessione: 12 nov 2026
 ---
