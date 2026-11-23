@@ -16,6 +16,8 @@ from: 2026-10-16T14:00:00.000+02:00
 location: Villa Saporiti - Como
 tags:
   - events
+gallery:
+  - /assets/847939090_18099668513452899_1871100956743318693_n.jpg
 ---
 Alessandro Volta non ha solo inventato la pila: ha inaugurato un modo nuovo di pensare l'innovazione come infrastruttura di conoscenza e progresso per il futuro. A distanza di due secoli, la città di Como torna al centro della scena scientifica internazionale con l'attivazione di Volta B1, segnando l'avvio di un programma strategico per il Paese dedicato allo sviluppo di competenze e alla risoluzione di sfide ad alta complessità.   
 
