@@ -26,6 +26,12 @@ gallery:
   - /assets/849040469_18099668816452899_8431534337765040722_n.jpg
   - /assets/851718486_18099668783452899_4121191031664313966_n.jpg
 ---
-Alessandro Volta non ha solo inventato la pila: ha inaugurato un modo nuovo di pensare l'innovazione come infrastruttura di conoscenza e progresso per il futuro. A distanza di due secoli, la città di Como torna al centro della scena scientifica internazionale con l'attivazione di Volta B1, segnando l'avvio di un programma strategico per il Paese dedicato allo sviluppo di competenze e alla risoluzione di sfide ad alta complessità.   
+È stato inaugurato a Villa Saporiti, a Como, Volta B1, il sistema di quantum annealing più potente installato in Italia. Basato sulla tecnologia D-Wave Advantage2 e dotato di oltre 4.400 qubit, rappresenta una nuova opportunità per la ricerca scientifica e per lo sviluppo di applicazioni innovative nei settori dell'energia, della logistica e dell'industria.
 
-È in questa traiettoria che si inserisce il convegno Quantum per l'Italia, un momento di confronto istituzionale e scientifico sul ruolo strategico delle tecnologie quantistiche e sulle loro ricadute industriali e pubbliche. Il nuovo sistema affronterà problemi complessi in ambiti quali logistica, produzione, energia, trasporti, manutenzione, programmazione dei servizi pubblici e ricerca scientifica. Nel corso dell'evento verrà presentata una dimostrazione di calcolo applicata all'Ipotesi di Riemann e verrà annunciata la nascita del Centro Nazionale Volta, destinato a promuovere programmi scientifici, formazione e collaborazioni ad alto impatto. L'incontro vedrà la presenza del Sottosegretario di Stato alla Presidenza del Consiglio dei Ministri, Sen. Alessio Butti, e la partecipazione delle Istituzioni parlamentari.
+L'iniziativa, promossa nell'ambito del percorso avviato dal Sottosegretario Alessio Butti con la nascita di Q-Alliance, punta a rendere le tecnologie quantistiche accessibili a università, imprese e pubbliche amministrazioni.
+
+Alla cerimonia sono intervenuti, tra gli altri, il Ministro Matteo Piantedosi, il Ministro Tommaso Foti e il Sottosegretario Alessio Butti. Il Presidente del Consiglio Giorgia Meloni ha inviato un messaggio di saluto, sottolineando il valore strategico dell'infrastruttura per la ricerca e la competitività del Paese.
+
+Nel nome di Alessandro Volta, Como si conferma così protagonista di una nuova stagione dell'innovazione scientifica e tecnologica.
+
+L'inaugurazione di Volta B1 rappresenta inoltre il primo appuntamento del programma di iniziative promosso dal Comitato Nazionale per celebrare, nel 2027, il bicentenario della morte di Alessandro Volta, valorizzandone l'eredità scientifica e il suo legame con le grandi sfide del futuro.
