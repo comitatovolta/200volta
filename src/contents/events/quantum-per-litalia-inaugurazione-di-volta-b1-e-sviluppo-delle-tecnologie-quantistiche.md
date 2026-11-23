@@ -22,6 +22,7 @@ gallery:
   - /assets/850433606_18099668609452899_2433064067422865007_n.jpg
   - /assets/850007949_18099668645452899_2855950133655118761_n.jpg
   - /assets/849772943_18099668813452899_6874756986541462238_n.jpg
+  - /assets/849588585_18099668504452899_1888442578026724617_n.jpg
 ---
 Alessandro Volta non ha solo inventato la pila: ha inaugurato un modo nuovo di pensare l'innovazione come infrastruttura di conoscenza e progresso per il futuro. A distanza di due secoli, la città di Como torna al centro della scena scientifica internazionale con l'attivazione di Volta B1, segnando l'avvio di un programma strategico per il Paese dedicato allo sviluppo di competenze e alla risoluzione di sfide ad alta complessità.   
 
